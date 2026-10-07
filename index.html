@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es" data-group="bacteria">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>BioteCard · La vida en tus cartas</title>
+  <meta name="description" content="Explora el universo de BioteCard. Descubre las cartas, conoce a sus organismos y construye tu ecosistema.">
+  <meta name="theme-color" content="#291a39">
+  <link rel="icon" type="image/svg+xml" href="assets/branding/favicon.svg">
+  <link rel="preload" href="assets/fonts/space-grotesk-regular.woff" as="font" type="font/woff" crossorigin>
+  <link rel="preload" href="assets/fonts/fraunces-medium-italic.woff" as="font" type="font/woff" crossorigin>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="identity.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#coleccion">Ir a las cartas</a>
+<header class="site-header">
+  <a class="brand header-brand" href="#coleccion" aria-label="BioteCard, inicio"><span class="logo-frame"><img class="site-logo logo-cards" src="assets/branding/biotecard-logo.png" width="2170" height="725" alt="BioteCard" fetchpriority="high"><img class="site-logo logo-lettering" src="assets/branding/biotecard-logo.png" width="2170" height="725" alt="" aria-hidden="true" fetchpriority="high"></span></a>
+  <nav class="main-navigation" aria-label="Navegación principal">
+    <a class="active" href="#coleccion" data-section="coleccion" aria-current="location"><span class="nav-number" aria-hidden="true">01</span><span>La colección</span></a>
+    <a href="#catalogo" data-section="catalogo"><span class="nav-number" aria-hidden="true">02</span><span>El catálogo</span></a>
+    <a href="#como-jugar" data-section="como-jugar"><span class="nav-number" aria-hidden="true">03</span><span>La partida</span></a>
+  </nav>
+  <div class="header-utility"><button class="manual-button" id="manual-link"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 5v15M12 5C8 2 3 3 3 3v15s5-1 9 2c4-3 9-2 9-2V3s-5-1-9 2Z"/></svg><span>Manual<span class="manual-extra"> de juego</span></span></button><span class="edition-status">EDICIÓN EN DESARROLLO</span></div>
+</header>
+<main>
+<section class="collection" id="coleccion" aria-labelledby="main-title">
+  <div class="intro"><p class="eyebrow">40 ORGANISMOS. UN MAZO POR DESCUBRIR.</p><h1 id="main-title">La vida en tus <em>cartas.</em></h1><p class="intro-copy">Del cóndor a la bacteria: descubre la vida que hay detrás de cada carta.</p></div>
+  <div class="collection-meta"><span>EXPLORA EL UNIVERSO BIOTECARD</span><span>COLECCIÓN COMPLETA <span class="meta-count">/ 40 CARTAS</span></span></div>
+  <div class="carousel" role="region" aria-roledescription="carrusel" aria-label="Cartas de organismos">
+    <div class="flow-floor" aria-hidden="true"></div>
+    <div id="card-stage" class="card-stage"><p class="loading-cards" role="status">Cargando la colección…</p></div>
+    <button class="carousel-arrow previous" id="previous" aria-label="Carta anterior"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 6-6 6 6 6"/></svg></button>
+    <button class="carousel-arrow next" id="next" aria-label="Carta siguiente"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m10 6 6 6-6 6"/></svg></button>
+  </div>
+  <div class="selection-info"><p class="selection-name" id="selection-name" aria-live="polite"></p><p class="selection-hint">Desliza para explorar · Pulsa la carta central para descubrir más</p><button class="primary-button" id="discover">Conocer al organismo <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="7"/><path d="M10 6v8m-4-4h8"/></svg></button></div>
+  <div class="carousel-bottom"><span class="edition-label">COLECCIÓN DE EXPLORACIÓN <span>01</span></span><label class="scrubber"><span class="sr-only">Recorrer las 40 cartas</span><input id="flow-slider" type="range" min="0" max="39" value="0" aria-label="Seleccionar carta del carrusel"></label><span class="counter" id="counter">01 <span>/ 40</span></span></div>
+  <p class="prototype-note">Ilustraciones originales de BioteCard · Edición en desarrollo</p>
+</section>
+<section class="catalog-section" id="catalogo" aria-labelledby="catalog-title">
+<div class="catalog-heading"><div><p class="eyebrow">EL ARCHIVO DE BIOTECARD</p><h2 id="catalog-title">El mazo, <em>organismo a organismo.</em></h2></div><span class="catalog-total">40 <small>CARTAS</small></span></div>
+<p class="catalog-intro">De los grandes animales a la vida microscópica. Explora todos los organismos de la colección.</p>
+<div class="catalog-controls"><label class="search-box"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><span class="sr-only">Buscar cartas</span><input id="card-search" type="search" placeholder="Nombre, organismo o número de carta…" autocomplete="off"></label><label class="sort-box"><span>Ordenar</span><select id="card-sort"><option value="number-asc">Número: menor a mayor</option><option value="number-desc">Número: mayor a menor</option><option value="name">Nombre de la carta</option><option value="species">Nombre científico</option></select></label></div>
+<div class="filter-row"><div class="type-filters" role="group" aria-label="Filtrar por grupo"><button data-type="all" aria-pressed="true">Todas <span>40</span></button><button data-type="animal" aria-pressed="false" style="--type-color:#f4d03b">Animales <span>10</span></button><button data-type="plant" aria-pressed="false" style="--type-color:#47e33d">Plantas <span>10</span></button><button data-type="fungus" aria-pressed="false" style="--type-color:#e45770">Hongos <span>10</span></button><button data-type="bacteria" aria-pressed="false" style="--type-color:#af64ff">Bacterias <span>10</span></button></div><p id="result-count" role="status">40 cartas</p></div>
+<div id="catalog-grid" class="catalog-grid"></div><div id="empty-catalog" class="empty-catalog" hidden><h3>No encontramos esa carta</h3><p>Prueba con otro nombre, número o grupo.</p><button id="reset-filters" class="outline-button">Restablecer búsqueda</button></div>
+</section>
+<section class="how-to" id="como-jugar" aria-labelledby="how-title">
+ <div class="section-index"><span>03 / LA PARTIDA</span><span>BIOLOGÍA + ESTRATEGIA</span></div>
+ <div class="rules-heading"><h2 id="how-title">Cómo <em>se juega.</em></h2><p>Prepara tu mano, coloca tus organismos y suma puntos con sus condiciones. Estas son las tres fases de una partida.</p></div>
+ <div class="steps">
+  <article><div class="step-top"><span class="step-number">01</span><span class="step-tag">EL DRAFT</span></div><h3>Tu primera selección.</h3><p>Recibe 10 cartas. Elige 2 y pasa el resto. Repite hasta reunir los 10 organismos con los que empezarás la partida.</p><span class="step-bottom">ELIGE · CONSERVA · PASA</span></article>
+  <article><div class="step-top"><span class="step-number">02</span><span class="step-tag">EL TABLERO</span></div><h3>Cada posición cuenta.</h3><p>Juega una carta por ronda, activa su habilidad y busca su lugar en el ecosistema. La baza más alta suma 2 puntos.</p><span class="step-bottom">9 RONDAS PARA CONSTRUIR</span></article>
+  <article><div class="step-top"><span class="step-number">03</span><span class="step-tag">LAS CONDICIONES</span></div><h3>Haz que encajen.</h3><p>Comprueba qué organismos cumplen sus condiciones. Sus estrellas se suman a tus puntos de baza. Gana el total más alto.</p><span class="step-bottom">ESTRELLAS + PUNTOS DE BAZA</span></article>
+ </div>
+ <div class="resources"><div class="resource-intro"><p class="eyebrow">RECURSOS METABÓLICOS</p><h3>La siguiente jugada<br><em>también se prepara.</em></h3><p>Amplía el espacio, cambia posiciones o renueva las cartas de tu mano.</p></div><div class="resource-item"><img class="resource-image" src="assets/resources/gen.png" width="240" height="240" alt="Ficha GEN de BioteCard, con una doble hélice" loading="lazy"><span class="resource-label gen">GEN</span><p>Expande tu tablero</p></div><div class="resource-item"><img class="resource-image" src="assets/resources/atp.png" width="192" height="192" alt="Ficha ATP de BioteCard, amarilla y circular" loading="lazy"><span class="resource-label atp">ATP</span><p>Reorganiza tus cartas</p></div><div class="resource-item"><img class="resource-image" src="assets/resources/nucleotide.png" width="216" height="216" alt="Ficha NUCLEÓTIDO de BioteCard" loading="lazy"><span class="resource-label nucleotide">NUCLEÓTIDO</span><p>Renueva tu mano</p></div></div>
+ <div class="manual-callout"><div><p class="eyebrow">ANTES DE LA PRIMERA BAZA</p><p>Consulta la preparación, los turnos y la puntuación.</p><small>Resumen basado en el manual inicial. Las cartas están en desarrollo.</small></div><button class="outline-button" id="manual-bottom">Abrir el manual</button></div>
+</section>
+</main>
+<footer>
+<nav class="social-links" aria-label="Redes sociales de Aukantun Team">
+ <a class="social-button" href="https://www.tiktok.com/@aukantun_team" target="_blank" rel="noopener noreferrer" aria-label="Aukantun Team en TikTok (abre en otra pestaña)"><svg viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64c.3 0 .59.05.86.13V9.4a6.35 6.35 0 0 0-.86-.05 6.33 6.33 0 0 0 0 12.65 6.34 6.34 0 0 0 6.34-6.33V8.68a8.24 8.24 0 0 0 4.83 1.55V6.8c-.36 0-.71-.04-1.06-.11Z"/></svg><span>TikTok</span></a>
+ <a class="social-button" href="https://www.instagram.com/aukantun_team/" target="_blank" rel="noopener noreferrer" aria-label="Aukantun Team en Instagram (abre en otra pestaña)"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg><span>Instagram</span></a>
+ <a class="social-button" href="https://www.youtube.com/@aktstudios-s" target="_blank" rel="noopener noreferrer" aria-label="AKT Studios en YouTube (abre en otra pestaña)"><svg viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M23 7s-.2-1.7-.9-2.4c-.9-.9-1.9-.9-2.3-1C16.6 3.4 12 3.4 12 3.4s-4.6 0-7.8.2c-.4.1-1.4.1-2.3 1C1.2 5.3 1 7 1 7s-.3 2-.3 4v2c0 2 .3 4 .3 4s.2 1.7.9 2.4c.9.9 2.1.9 2.7 1 2 .2 7.4.2 7.4.2s4.6 0 7.8-.2c.4-.1 1.4-.1 2.3-1 .7-.7.9-2.4.9-2.4s.3-2 .3-4v-2c0-2-.3-4-.3-4ZM9.7 16V8l7 4-7 4Z"/></svg><span>YouTube</span></a>
+</nav>
+<a class="brand footer-brand" href="#coleccion" aria-label="BioteCard, inicio"><span class="logo-frame"><img class="site-logo logo-cards" src="assets/branding/biotecard-logo.png" width="2170" height="725" alt="BioteCard" loading="lazy"><img class="site-logo logo-lettering" src="assets/branding/biotecard-logo.png" width="2170" height="725" alt="" aria-hidden="true" loading="lazy"></span></a><p class="copyright">© 2026 Aukantun Team</p><p class="powered-by">Powered by <strong>RAVEN</strong> <span class="footer-separator">|</span> <span lang="ja">プログラム</span></p></footer>
+<dialog id="organism-dialog" class="organism-dialog" aria-labelledby="organism-title"><button class="close-dialog" aria-label="Cerrar ficha" id="close-organism">×</button><div id="organism-content"></div></dialog>
+<dialog id="manual-dialog" class="manual-dialog" aria-labelledby="manual-title"><button class="close-dialog" id="close-manual" aria-label="Cerrar manual">×</button><p class="eyebrow">BIOTECARD</p><h2 id="manual-title">El manual de juego</h2><p>Consulta el manual inicial de BioteCard. Las cartas actuales tienen ilustraciones y valores actualizados.</p><div class="manual-options"><a href="assets/manual-1.pdf" target="_blank" rel="noopener"><span>01</span><div><strong>Cartas y recursos</strong><p>Objetivo, anatomía de una carta y recursos metabólicos.</p></div><small>PDF</small></a><a href="assets/manual-2.pdf" target="_blank" rel="noopener"><span>02</span><div><strong>La partida y los combos</strong><p>Fases del juego y ejemplo de puntuación del ecosistema.</p></div><small>PDF</small></a></div><p class="manual-footnote">El manual corresponde a una versión anterior del juego. Para las habilidades y valores actuales, consulta las cartas de la colección.</p></dialog>
+<dialog id="zoom-dialog" class="zoom-dialog" aria-label="Carta ampliada"><button class="close-dialog" id="close-zoom" aria-label="Cerrar ampliación">×</button><img id="zoom-image" alt=""></dialog>
+</body>
+</html>

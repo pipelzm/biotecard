@@ -1,0 +1,975 @@
+{
+  "schemaVersion": 1,
+  "edition": "Colección inicial",
+  "status": "En desarrollo",
+  "cards": [
+    {
+      "id": "BC-01",
+      "number": 1,
+      "title": "El intruso del nido",
+      "species": "Chlamydia psittaci",
+      "common": "Clamidia de las aves",
+      "group": "bacteria",
+      "subgroup": "Bacteria intracelular",
+      "setting": "Aves y otros hospedadores",
+      "role": "Interacción con hospedadores",
+      "description": "Chlamydia psittaci es una bacteria que infecta aves y puede causar psitacosis en humanos. No afecta únicamente a loros.",
+      "connection": "Su ciclo permite explorar las conexiones entre microorganismos y hospedadores de distintas especies.",
+      "sources": [
+        {
+          "label": "CDC · Psitacosis",
+          "url": "https://www.cdc.gov/psittacosis/about/index.html"
+        }
+      ],
+      "image": "assets/cards/01.webp",
+      "thumbnail": "assets/cards/01-thumb.webp",
+      "sourcePdf": "0_Frontal-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-02",
+      "number": 2,
+      "title": "El parásito obligado",
+      "species": "Chlamydia trachomatis",
+      "common": "Clamidia",
+      "group": "bacteria",
+      "subgroup": "Bacteria intracelular",
+      "setting": "Células de hospedadores humanos",
+      "role": "Dependencia del hospedador",
+      "description": "Chlamydia trachomatis es una bacteria que necesita células del hospedador para completar su ciclo. Algunas de sus infecciones humanas pueden cursar sin síntomas.",
+      "connection": "Su dependencia celular ilustra una estrategia biológica distinta de la de las bacterias que viven libremente en el ambiente.",
+      "sources": [
+        {
+          "label": "CDC · Chlamydia",
+          "url": "https://www.cdc.gov/chlamydia/about/index.html"
+        }
+      ],
+      "image": "assets/cards/02.webp",
+      "thumbnail": "assets/cards/02-thumb.webp",
+      "sourcePdf": "0_Frontal-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-03",
+      "number": 3,
+      "title": "El colono de la dermis",
+      "species": "Cutibacterium acnes",
+      "common": "Cutibacteria cutánea",
+      "group": "bacteria",
+      "subgroup": "Bacteria de la piel",
+      "setting": "Piel rica en sebo",
+      "role": "Miembro de la microbiota",
+      "description": "Cutibacterium acnes forma parte de la microbiota de la piel, especialmente en áreas ricas en sebo. También puede participar en procesos inflamatorios.",
+      "connection": "Su presencia no significa por sí sola enfermedad. Las interacciones con el hospedador y con otros microorganismos importan.",
+      "sources": [
+        {
+          "label": "Microorganisms · Microbiota cutánea",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8003110/"
+        }
+      ],
+      "image": "assets/cards/03.webp",
+      "thumbnail": "assets/cards/03-thumb.webp",
+      "sourcePdf": "0_Frontal-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-04",
+      "number": 4,
+      "title": "El motor simbiótico",
+      "species": "Bifidobacterium animalis",
+      "common": "Bifidobacteria",
+      "group": "bacteria",
+      "subgroup": "Bacteria intestinal",
+      "setting": "Tracto gastrointestinal",
+      "role": "Metabolismo de carbohidratos",
+      "description": "Bifidobacterium animalis es una bacteria asociada al tracto gastrointestinal. Distintas cepas se estudian por su metabolismo y su interacción con el hospedador.",
+      "connection": "Los resultados obtenidos con una cepa no se pueden extender sin más a toda la especie.",
+      "sources": [
+        {
+          "label": "Microbiology Resource Announcements · Genoma",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11320947/"
+        }
+      ],
+      "image": "assets/cards/04.webp",
+      "thumbnail": "assets/cards/04-thumb.webp",
+      "sourcePdf": "0_Frontal-2.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-05",
+      "number": 5,
+      "title": "El fermentador ácido",
+      "species": "Acetobacter aceti",
+      "common": "Bacteria del vinagre",
+      "group": "bacteria",
+      "subgroup": "Bacteria acética",
+      "setting": "Medios con etanol y oxígeno",
+      "role": "Oxidación de etanol",
+      "description": "Acetobacter aceti es una bacteria acética que puede oxidar etanol a ácido acético en presencia de oxígeno.",
+      "connection": "Este metabolismo se relaciona con la elaboración de vinagre. La oxidación acética requiere oxígeno, a diferencia de muchas fermentaciones.",
+      "sources": [
+        {
+          "label": "Journal of Bacteriology · Investigación",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2447011/"
+        }
+      ],
+      "image": "assets/cards/05.webp",
+      "thumbnail": "assets/cards/05-thumb.webp",
+      "sourcePdf": "0_Frontal-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-06",
+      "number": 6,
+      "title": "El puente invisible",
+      "species": "Rhizophagus irregularis",
+      "common": "Hongo micorrícico",
+      "group": "fungus",
+      "subgroup": "Hongo micorrícico",
+      "setting": "Suelo y raíces",
+      "role": "Simbiosis con plantas",
+      "description": "Rhizophagus irregularis es un hongo que forma micorrizas arbusculares con raíces de plantas. Su red de hifas se extiende por el suelo.",
+      "connection": "La asociación permite intercambios entre la planta y el hongo. Las micorrizas muestran cómo una interacción puede conectar organismos de grupos distintos.",
+      "sources": [
+        {
+          "label": "The ISME Journal · Investigación",
+          "url": "https://www.nature.com/articles/ismej201629"
+        }
+      ],
+      "image": "assets/cards/06.webp",
+      "thumbnail": "assets/cards/06-thumb.webp",
+      "sourcePdf": "0_Frontal-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-07",
+      "number": 7,
+      "title": "El motor metabólico",
+      "species": "Saccharomyces cerevisiae",
+      "common": "Levadura de panadería",
+      "group": "fungus",
+      "subgroup": "Levadura",
+      "setting": "Sustratos ricos en azúcares",
+      "role": "Fermentación",
+      "description": "Saccharomyces cerevisiae es una levadura: un hongo unicelular. Su capacidad de fermentar azúcares se utiliza en panadería y en otras fermentaciones.",
+      "connection": "Durante la fermentación alcohólica produce etanol y dióxido de carbono. También es un organismo modelo en investigación.",
+      "sources": [
+        {
+          "label": "Saccharomyces Genome Database",
+          "url": "https://pathway.yeastgenome.org/YEAST/NEW-IMAGE?detail-level=1&object=Fermentation"
+        }
+      ],
+      "image": "assets/cards/07.webp",
+      "thumbnail": "assets/cards/07-thumb.webp",
+      "sourcePdf": "0_Frontal-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-08",
+      "number": 8,
+      "title": "El azote bacteriano",
+      "species": "Penicillium chrysogenum",
+      "common": "Penicillium",
+      "group": "fungus",
+      "subgroup": "Moho",
+      "setting": "Materia orgánica",
+      "role": "Metabolismo de compuestos orgánicos",
+      "description": "Penicillium chrysogenum es un hongo filamentoso estudiado por su metabolismo y por la producción de compuestos como las penicilinas.",
+      "connection": "El estudio de su genoma ayuda a entender cómo los hongos producen metabolitos secundarios de interés biotecnológico.",
+      "sources": [
+        {
+          "label": "Nature Biotechnology · Genoma",
+          "url": "https://www.nature.com/articles/nbt.1498"
+        }
+      ],
+      "image": "assets/cards/08.webp",
+      "thumbnail": "assets/cards/08-thumb.webp",
+      "sourcePdf": "0_Frontal-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-09",
+      "number": 9,
+      "title": "La alfombra de la tundra",
+      "species": "Cladonia rangiferina",
+      "common": "Liquen de los renos",
+      "group": "fungus",
+      "subgroup": "Liquen",
+      "setting": "Suelos de ambientes fríos",
+      "role": "Simbiosis liquénica",
+      "description": "Cladonia rangiferina es un liquen ramificado de tonos claros que forma parte de comunidades de suelos fríos y abiertos.",
+      "connection": "Aunque algunos nombres comunes lo llaman «musgo», es un liquen, una asociación biológica dominada por un hongo.",
+      "sources": [
+        {
+          "label": "British Lichen Society",
+          "url": "https://britishlichensociety.org.uk/resources/species-accounts/cladonia-rangiferina"
+        }
+      ],
+      "image": "assets/cards/09.webp",
+      "thumbnail": "assets/cards/09-thumb.webp",
+      "sourcePdf": "0_Frontal-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-10",
+      "number": 10,
+      "title": "El sensor del aire",
+      "species": "Usnea barbata",
+      "common": "Barba de viejo",
+      "group": "fungus",
+      "subgroup": "Liquen",
+      "setting": "Sobre árboles",
+      "role": "Simbiosis liquénica",
+      "description": "Usnea barbata es un liquen de aspecto ramificado que crece sobre árboles. Su forma recuerda una barba colgante.",
+      "connection": "Como otros líquenes, reúne socios biológicos con funciones diferentes. Puede absorber recursos directamente de su entorno.",
+      "sources": [
+        {
+          "label": "British Lichen Society",
+          "url": "https://britishlichensociety.org.uk/resources/species-accounts/usnea-barbata"
+        },
+        {
+          "label": "Estudio de fotobiología",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12430271/"
+        }
+      ],
+      "image": "assets/cards/10.webp",
+      "thumbnail": "assets/cards/10-thumb.webp",
+      "sourcePdf": "0_Frontal-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-11",
+      "number": 11,
+      "title": "La llama de los bosques",
+      "species": "Lapageria rosea",
+      "common": "Copihue",
+      "group": "plant",
+      "subgroup": "Trepadora",
+      "setting": "Bosques de Chile",
+      "role": "Productor primario",
+      "description": "El copihue es una planta trepadora nativa de Chile central y austral. Sus flores colgantes tienen una forma acampanada característica.",
+      "connection": "Al trepar utiliza otras estructuras como soporte para alcanzar la luz. Esa estrategia no implica que sea una planta parásita.",
+      "sources": [
+        {
+          "label": "Royal Botanic Gardens, Kew",
+          "url": "https://powo.science.kew.org/taxon/537288-1"
+        }
+      ],
+      "image": "assets/cards/11.webp",
+      "thumbnail": "assets/cards/11-thumb.webp",
+      "sourcePdf": "0_Frontal-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-12",
+      "number": 12,
+      "title": "El paraguas del pantano",
+      "species": "Gunnera tinctoria",
+      "common": "Nalca",
+      "group": "plant",
+      "subgroup": "Herbácea",
+      "setting": "Ambientes húmedos",
+      "role": "Productor primario",
+      "description": "La nalca es una planta herbácea de grandes hojas, nativa de Chile. Crece en ambientes húmedos.",
+      "connection": "El gran tamaño de una hoja no convierte a una planta en árbol: su forma de crecimiento sigue siendo herbácea.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/7457"
+        }
+      ],
+      "image": "assets/cards/12.webp",
+      "thumbnail": "assets/cards/12-thumb.webp",
+      "sourcePdf": "0_Frontal-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-13",
+      "number": 13,
+      "title": "El dulce del sotobosque",
+      "species": "Ugni molinae",
+      "common": "Murta o murtilla",
+      "group": "plant",
+      "subgroup": "Arbusto",
+      "setting": "Bosques y matorrales del sur",
+      "role": "Productor primario",
+      "description": "La murta o murtilla es un arbusto de los bosques y matorrales del sur de Chile. Es conocida por sus frutos aromáticos.",
+      "connection": "Como otras plantas con flores, conecta producción primaria, polinización y dispersión de semillas.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/8471"
+        }
+      ],
+      "image": "assets/cards/13.webp",
+      "thumbnail": "assets/cards/13-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 2
+    },
+    {
+      "id": "BC-14",
+      "number": 14,
+      "title": "La joya antioxidante",
+      "species": "Aristotelia chilensis",
+      "common": "Maqui",
+      "group": "plant",
+      "subgroup": "Árbol o arbusto",
+      "setting": "Bosques y matorrales",
+      "role": "Productor primario",
+      "description": "El maqui es una planta leñosa nativa del sur de Sudamérica. Produce pequeños frutos de color oscuro.",
+      "connection": "Sus frutos forman parte de las relaciones entre las plantas y los animales que los consumen.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/14013"
+        }
+      ],
+      "image": "assets/cards/14.webp",
+      "thumbnail": "assets/cards/14-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 2
+    },
+    {
+      "id": "BC-15",
+      "number": 15,
+      "title": "La espina de la estepa",
+      "species": "Berberis microphylla",
+      "common": "Calafate",
+      "group": "plant",
+      "subgroup": "Arbusto",
+      "setting": "Matorrales patagónicos",
+      "role": "Productor primario",
+      "description": "El calafate es un arbusto espinoso de la Patagonia. Produce frutos oscuros y participa en comunidades de matorral.",
+      "connection": "Sus espinas y sus frutos representan funciones diferentes: defensa y reproducción de la planta.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/15634"
+        }
+      ],
+      "image": "assets/cards/15.webp",
+      "thumbnail": "assets/cards/15-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 2
+    },
+    {
+      "id": "BC-16",
+      "number": 16,
+      "title": "El astuto del cerro",
+      "species": "Lycalopex culpaeus",
+      "common": "Zorro culpeo",
+      "group": "animal",
+      "subgroup": "Mamífero",
+      "setting": "Ambientes andinos y patagónicos",
+      "role": "Dieta variada",
+      "description": "El zorro culpeo ocupa ambientes diversos de Sudamérica. Su dieta cambia con la disponibilidad local de alimento.",
+      "connection": "Puede consumir pequeños vertebrados, invertebrados y frutos. Esa flexibilidad le permite vivir en paisajes muy distintos.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4518"
+        }
+      ],
+      "image": "assets/cards/16.webp",
+      "thumbnail": "assets/cards/16-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 2
+    },
+    {
+      "id": "BC-17",
+      "number": 17,
+      "title": "El navegante del hielo",
+      "species": "Spheniscus magellanicus",
+      "common": "Pingüino de Magallanes",
+      "group": "animal",
+      "subgroup": "Ave marina",
+      "setting": "Costas del sur de Sudamérica",
+      "role": "Depredación marina",
+      "description": "El pingüino de Magallanes es un ave marina del sur de Sudamérica. Nada para alimentarse y se reproduce en colonias costeras.",
+      "connection": "Aunque no vuela en el aire, sus extremidades anteriores están adaptadas para propulsarse bajo el agua.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/12351"
+        }
+      ],
+      "image": "assets/cards/17.webp",
+      "thumbnail": "assets/cards/17-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-18",
+      "number": 18,
+      "title": "El acróbata del oleaje",
+      "species": "Lontra felina",
+      "common": "Chungungo",
+      "group": "animal",
+      "subgroup": "Mamífero marino",
+      "setting": "Costas rocosas del Pacífico",
+      "role": "Depredación",
+      "description": "El chungungo es una pequeña nutria marina de la costa del Pacífico sudamericano. Utiliza el litoral rocoso para buscar alimento y refugio.",
+      "connection": "Su vida conecta el ambiente terrestre costero con el mar. Entre sus presas se encuentran crustáceos, moluscos y peces.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4516"
+        }
+      ],
+      "image": "assets/cards/18.webp",
+      "thumbnail": "assets/cards/18-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-19",
+      "number": 19,
+      "title": "La sombra del rincón",
+      "species": "Loxosceles laeta",
+      "common": "Araña de rincón",
+      "group": "animal",
+      "subgroup": "Arácnido",
+      "setting": "Refugios oscuros y secos",
+      "role": "Depredación de artrópodos",
+      "description": "La araña de rincón es un arácnido de hábitos discretos que utiliza refugios oscuros y secos. Captura pequeños artrópodos.",
+      "connection": "Las arañas tienen ocho patas y pertenecen a un grupo diferente del de los insectos. Su mordedura puede tener importancia médica.",
+      "sources": [
+        {
+          "label": "Pontificia Universidad Católica de Chile",
+          "url": "https://fonoaudiologia.uc.cl/publicacion/la-arana-del-rincon-loxosceles-laeta/"
+        }
+      ],
+      "image": "assets/cards/19.webp",
+      "thumbnail": "assets/cards/19-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-20",
+      "number": 20,
+      "title": "El titán de la madera",
+      "species": "Acanthinodera cumingii",
+      "common": "Madre de la culebra",
+      "group": "animal",
+      "subgroup": "Insecto",
+      "setting": "Ambientes de Chile central",
+      "role": "Larvas asociadas a madera",
+      "description": "Acanthinodera cumingii es un gran escarabajo nativo de Chile, conocido como madre de la culebra. Sus larvas se desarrollan asociadas a la madera.",
+      "connection": "Su nombre común no implica ninguna relación de parentesco con las serpientes: pertenece a los insectos.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/19187"
+        }
+      ],
+      "image": "assets/cards/20.webp",
+      "thumbnail": "assets/cards/20-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-21",
+      "number": 21,
+      "title": "El vector de la sombra",
+      "species": "Borrelia burgdorferi",
+      "common": "Borrelia",
+      "group": "bacteria",
+      "subgroup": "Espiroqueta",
+      "setting": "Garrapatas y vertebrados",
+      "role": "Ciclo con vector",
+      "description": "Borrelia burgdorferi es una bacteria relacionada con la enfermedad de Lyme. Su ciclo involucra garrapatas y hospedadores vertebrados.",
+      "connection": "La garrapata es el vector que puede transmitir la bacteria. El microorganismo y su vector son seres biológicos distintos.",
+      "sources": [
+        {
+          "label": "CDC · Enfermedad de Lyme",
+          "url": "https://www.cdc.gov/lyme/about/index.html"
+        }
+      ],
+      "image": "assets/cards/21.webp",
+      "thumbnail": "assets/cards/21-thumb.webp",
+      "sourcePdf": "0_Frontal-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-22",
+      "number": 22,
+      "title": "El moco de la roca",
+      "species": "Nostoc commune",
+      "common": "Nostoc",
+      "group": "bacteria",
+      "subgroup": "Cianobacteria",
+      "setting": "Superficies terrestres",
+      "role": "Fotosíntesis",
+      "description": "Nostoc commune es una cianobacteria que forma colonias rodeadas de una matriz gelatinosa. Realiza fotosíntesis y puede vivir en superficies terrestres.",
+      "connection": "Sus polisacáridos extracelulares ayudan a tolerar la desecación. La actividad fotosintética puede recuperarse después de rehidratarse.",
+      "sources": [
+        {
+          "label": "Estudio · Applied and Environmental Microbiology",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1287664/"
+        }
+      ],
+      "image": "assets/cards/22.webp",
+      "thumbnail": "assets/cards/22-thumb.webp",
+      "sourcePdf": "0_Frontal-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-23",
+      "number": 23,
+      "title": "El oportunista dorado",
+      "species": "Staphylococcus aureus",
+      "common": "Estafilococo dorado",
+      "group": "bacteria",
+      "subgroup": "Coco",
+      "setting": "Piel y nariz humanas",
+      "role": "Colonización o infección",
+      "description": "Staphylococcus aureus puede vivir en la piel y en la nariz sin causar enfermedad. En otras circunstancias puede provocar infecciones.",
+      "connection": "Colonización e infección son situaciones distintas. La resistencia a antibióticos depende de la cepa; no todos los estafilococos dorados son MRSA.",
+      "sources": [
+        {
+          "label": "CDC · Staphylococcus aureus",
+          "url": "https://www.cdc.gov/staphylococcus-aureus/about/"
+        }
+      ],
+      "image": "assets/cards/23.webp",
+      "thumbnail": "assets/cards/23-thumb.webp",
+      "sourcePdf": "0_Frontal-3.pdf",
+      "sourcePage": 1,
+      "photo": "assets/staph.webp",
+      "photoCredit": {
+        "author": "NIAID / Frank DeLeo",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Staphylococcus_aureus_Bacteria_(5148710483).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Staphylococcus_aureus_Bacteria_%285148710483%29.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+        "caption": "Micrografía electrónica coloreada de S. aureus; colores añadidos. Encuadre adaptado.",
+        "changes": "Redimensionada y convertida a WebP; encuadre ajustado en la página."
+      }
+    },
+    {
+      "id": "BC-24",
+      "number": 24,
+      "title": "El dardo del fango",
+      "species": "Leptospira interrogans",
+      "common": "Leptospira",
+      "group": "bacteria",
+      "subgroup": "Espiroqueta",
+      "setting": "Animales y ambientes contaminados",
+      "role": "Interacción con hospedadores",
+      "description": "Leptospira interrogans pertenece a un grupo de bacterias asociadas a la leptospirosis. La interacción entre animales, agua y suelo forma parte de su ecología.",
+      "connection": "El contacto entre fauna, agua y suelo ayuda a entender cómo un microorganismo puede circular entre distintos ambientes.",
+      "sources": [
+        {
+          "label": "CDC · Leptospirosis",
+          "url": "https://www.cdc.gov/leptospirosis/about/index.html"
+        }
+      ],
+      "image": "assets/cards/24.webp",
+      "thumbnail": "assets/cards/24-thumb.webp",
+      "sourcePdf": "0_Frontal-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-25",
+      "number": 25,
+      "title": "El guardián láctico",
+      "species": "Lactobacillus acidophilus",
+      "common": "Lactobacilo acidófilo",
+      "group": "bacteria",
+      "subgroup": "Bacteria láctica",
+      "setting": "Microbiota y cultivos fermentativos",
+      "role": "Producción de lactato",
+      "description": "Lactobacillus acidophilus es una bacteria láctica: su metabolismo puede producir lactato a partir de carbohidratos.",
+      "connection": "Las propiedades de una cepa concreta no deben atribuirse automáticamente a todas las cepas de la especie.",
+      "sources": [
+        {
+          "label": "DSMZ · BacDive",
+          "url": "https://www.bacdive.dsmz.de/strain/6405"
+        }
+      ],
+      "image": "assets/cards/25.webp",
+      "thumbnail": "assets/cards/25-thumb.webp",
+      "sourcePdf": "0_Frontal-3.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-26",
+      "number": 26,
+      "title": "El tapiz del sustrato",
+      "species": "Xanthoria elegans",
+      "common": "Liquen naranja",
+      "group": "fungus",
+      "subgroup": "Liquen",
+      "setting": "Sustratos rocosos",
+      "role": "Simbiosis liquénica",
+      "description": "Este liquen naranja crece sobre superficies rocosas. Un liquen es una asociación en la que participan un hongo y organismos fotosintéticos.",
+      "connection": "La British Lichen Society lo registra como Rusavskia elegans, con Xanthoria elegans como sinónimo. Conservamos el nombre impreso en la carta.",
+      "sources": [
+        {
+          "label": "British Lichen Society",
+          "url": "https://britishlichensociety.org.uk/resources/species-accounts/rusavskia-elegans"
+        }
+      ],
+      "image": "assets/cards/26.webp",
+      "thumbnail": "assets/cards/26-thumb.webp",
+      "sourcePdf": "0_Frontal-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-27",
+      "number": 27,
+      "title": "El escudo medicinal",
+      "species": "Trametes versicolor",
+      "common": "Cola de pavo",
+      "group": "fungus",
+      "subgroup": "Hongo de la madera",
+      "setting": "Madera muerta",
+      "role": "Descomposición",
+      "description": "Trametes versicolor crece sobre madera y forma cuerpos fructíferos con bandas de distintos colores. Es conocido como cola de pavo.",
+      "connection": "Sus enzimas permiten degradar componentes de la madera. Así contribuye al reciclaje de materia en los ecosistemas.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/5319"
+        }
+      ],
+      "image": "assets/cards/27.webp",
+      "thumbnail": "assets/cards/27-thumb.webp",
+      "sourcePdf": "0_Frontal-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-28",
+      "number": 28,
+      "title": "El destello púrpura",
+      "species": "Cortinarius magellanicus",
+      "common": "Cortinario magallánico",
+      "group": "fungus",
+      "subgroup": "Hongo con seta",
+      "setting": "Bosques australes",
+      "role": "Simbiosis micorrícica",
+      "description": "Cortinarius magellanicus es un hongo de los bosques australes, reconocido por sus tonos violáceos. Se asocia a ambientes con árboles del género Nothofagus.",
+      "connection": "Las asociaciones entre hongos y raíces son parte de las conexiones subterráneas de estos bosques.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/5223"
+        }
+      ],
+      "image": "assets/cards/28.webp",
+      "thumbnail": "assets/cards/28-thumb.webp",
+      "sourcePdf": "0_Frontal-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-29",
+      "number": 29,
+      "title": "El colonizador sutil",
+      "species": "Agaricus silvaticus",
+      "common": "Champiñón del bosque",
+      "group": "fungus",
+      "subgroup": "Hongo con seta",
+      "setting": "Suelo de bosques",
+      "role": "Descomposición",
+      "description": "Este hongo forma setas en ambientes boscosos. Su sombrero muestra escamas pardas y sus tejidos pueden enrojecer al dañarse.",
+      "connection": "En las fuentes taxonómicas también aparece como Agaricus sylvaticus. La carta conserva la grafía Agaricus silvaticus.",
+      "sources": [
+        {
+          "label": "Sociedad Micológica Extremeña",
+          "url": "https://micoex.org/2016/09/17/agaricus-silvaticus/"
+        },
+        {
+          "label": "GBIF · Taxonomía",
+          "url": "https://www.gbif.org/taxon/6622J"
+        }
+      ],
+      "image": "assets/cards/29.webp",
+      "thumbnail": "assets/cards/29-thumb.webp",
+      "sourcePdf": "0_Frontal-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-30",
+      "number": 30,
+      "title": "El gigante del sur",
+      "species": "Butyriboletus loyo",
+      "common": "Loyo",
+      "group": "fungus",
+      "subgroup": "Hongo con seta",
+      "setting": "Bosque templado austral",
+      "role": "Simbiosis micorrícica",
+      "description": "El loyo es un hongo de los bosques templados del sur de Sudamérica. Sus cuerpos fructíferos pertenecen al grupo de los boletos.",
+      "connection": "Su relación con las raíces de árboles ilustra la importancia de las micorrizas en el bosque.",
+      "sources": [
+        {
+          "label": "Universidad de Magallanes · SIB Aysén",
+          "url": "https://kataix.umag.cl/sib-aysen/catalog/taxon/butyriboletus_loyo/summary/"
+        }
+      ],
+      "image": "assets/cards/30.webp",
+      "thumbnail": "assets/cards/30-thumb.webp",
+      "sourcePdf": "0_Frontal-4.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-31",
+      "number": 31,
+      "title": "El protector del valle",
+      "species": "Cryptocarya alba",
+      "common": "Peumo",
+      "group": "plant",
+      "subgroup": "Árbol",
+      "setting": "Bosque esclerófilo",
+      "role": "Productor primario",
+      "description": "El peumo es un árbol siempreverde característico del bosque esclerófilo chileno. Sus frutos maduros presentan una coloración rojiza.",
+      "connection": "Forma parte de las comunidades de árboles que sostienen los hábitats del centro de Chile.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/10624"
+        }
+      ],
+      "image": "assets/cards/31.webp",
+      "thumbnail": "assets/cards/31-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 2
+    },
+    {
+      "id": "BC-32",
+      "number": 32,
+      "title": "El árbol sagrado",
+      "species": "Drimys winteri",
+      "common": "Canelo",
+      "group": "plant",
+      "subgroup": "Árbol",
+      "setting": "Bosques húmedos del sur",
+      "role": "Productor primario",
+      "description": "El canelo es un árbol siempreverde de los bosques de Chile y Argentina. Se encuentra con frecuencia en ambientes húmedos.",
+      "connection": "Además de su papel ecológico, posee una profunda importancia cultural para el pueblo mapuche.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/10175"
+        }
+      ],
+      "image": "assets/cards/32.webp",
+      "thumbnail": "assets/cards/32-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 2
+    },
+    {
+      "id": "BC-33",
+      "number": 33,
+      "title": "El escudo del bosque",
+      "species": "Quillaja saponaria",
+      "common": "Quillay",
+      "group": "plant",
+      "subgroup": "Árbol",
+      "setting": "Bosque esclerófilo",
+      "role": "Productor primario",
+      "description": "El quillay es un árbol del bosque esclerófilo chileno. Sus hojas persistentes le permiten mantener su actividad en un paisaje de marcada estacionalidad.",
+      "connection": "Es parte de las comunidades vegetales de Chile central. Sus tejidos contienen saponinas, compuestos de interés biotecnológico.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/7498"
+        }
+      ],
+      "image": "assets/cards/33.webp",
+      "thumbnail": "assets/cards/33-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 2
+    },
+    {
+      "id": "BC-34",
+      "number": 34,
+      "title": "El centinela de la roca",
+      "species": "Araucaria araucana",
+      "common": "Araucaria o pewén",
+      "group": "plant",
+      "subgroup": "Conífera",
+      "setting": "Bosques de Chile y Argentina",
+      "role": "Productor primario",
+      "description": "La araucaria o pewén es una conífera del sur de Sudamérica. En Chile forma bosques en sectores andinos y en la cordillera de Nahuelbuta.",
+      "connection": "Sus semillas, conocidas como piñones, son un recurso alimentario y tienen gran importancia cultural para el pueblo pewenche.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/6545"
+        }
+      ],
+      "image": "assets/cards/34.webp",
+      "thumbnail": "assets/cards/34-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 2
+    },
+    {
+      "id": "BC-35",
+      "number": 35,
+      "title": "El titán milenario",
+      "species": "Fitzroya cupressoides",
+      "common": "Alerce",
+      "group": "plant",
+      "subgroup": "Conífera",
+      "setting": "Bosque templado húmedo",
+      "role": "Productor primario",
+      "description": "El alerce es una conífera de los bosques templados húmedos del sur de Chile y Argentina. Destaca por su extraordinaria longevidad.",
+      "connection": "Sus bosques representan historias ecológicas de miles de años. Un árbol antiguo no se reemplaza en los tiempos de una generación humana.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/6535"
+        }
+      ],
+      "image": "assets/cards/35.webp",
+      "thumbnail": "assets/cards/35-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 2
+    },
+    {
+      "id": "BC-36",
+      "number": 36,
+      "title": "El titán de la estepa",
+      "species": "Rhea pennata",
+      "common": "Ñandú de Darwin",
+      "group": "animal",
+      "subgroup": "Ave",
+      "setting": "Estepas y ambientes abiertos",
+      "role": "Alimentación principalmente vegetal",
+      "description": "El ñandú de Darwin es un ave sudamericana que se desplaza corriendo y no vuela. Habita paisajes abiertos, incluidas estepas patagónicas.",
+      "connection": "Su cuerpo y sus patas están adaptados a la vida terrestre. Su dieta incluye una gran proporción de materia vegetal.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/5038"
+        }
+      ],
+      "image": "assets/cards/36.webp",
+      "thumbnail": "assets/cards/36-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-37",
+      "number": 37,
+      "title": "El titán de la Patagonia",
+      "species": "Hippocamelus bisulcus",
+      "common": "Huemul",
+      "group": "animal",
+      "subgroup": "Mamífero",
+      "setting": "Bosques y ambientes andinos",
+      "role": "Herbivoría",
+      "description": "El huemul es un ciervo nativo de Chile y Argentina, asociado a bosques y ambientes andinos. Se alimenta de vegetación.",
+      "connection": "Es una especie emblemática de los ecosistemas australes. Los machos desarrollan astas que se renuevan periódicamente.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4607"
+        }
+      ],
+      "image": "assets/cards/37.webp",
+      "thumbnail": "assets/cards/37-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 1
+    },
+    {
+      "id": "BC-38",
+      "number": 38,
+      "title": "El guardián de los Andes",
+      "species": "Vultur gryphus",
+      "common": "Cóndor andino",
+      "group": "animal",
+      "subgroup": "Ave",
+      "setting": "Montañas y costas",
+      "role": "Carroñero",
+      "description": "El cóndor andino es un ave carroñera de Sudamérica. Utiliza corrientes de aire para planear sobre extensos territorios.",
+      "connection": "Al consumir animales muertos participa en el reciclaje de materia orgánica. Además de la cordillera, ocupa ambientes costeros.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4891"
+        }
+      ],
+      "image": "assets/cards/38.webp",
+      "thumbnail": "assets/cards/38-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 1,
+      "photo": "assets/condor.webp",
+      "photoCredit": {
+        "author": "Charles J. Sharp; recorte por Bloopityboop",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Andean_condor_(Vultur_gryphus)_male_in_flight_Torres_del_Paine_(cropped).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Andean_condor_%28Vultur_gryphus%29_male_in_flight_Torres_del_Paine_%28cropped%29.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+        "caption": "Cóndor andino en vuelo, Torres del Paine. Encuadre adaptado.",
+        "changes": "Redimensionada y convertida a WebP; encuadre ajustado en la página."
+      }
+    },
+    {
+      "id": "BC-39",
+      "number": 39,
+      "title": "El cazador adaptativo",
+      "species": "Puma concolor",
+      "common": "Puma",
+      "group": "animal",
+      "subgroup": "Mamífero",
+      "setting": "Bosques, matorrales y estepas",
+      "role": "Depredación",
+      "description": "El puma habita una amplia variedad de paisajes americanos. En Chile puede encontrarse en bosques, matorrales, montañas y estepas.",
+      "connection": "Es un felino territorial y generalmente solitario. Su dieta incluye desde pequeños mamíferos hasta grandes herbívoros.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4530"
+        }
+      ],
+      "image": "assets/cards/39.webp",
+      "thumbnail": "assets/cards/39-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 1,
+      "photo": "assets/puma.webp",
+      "photoCredit": {
+        "author": "John and Karen Hollingsworth, U.S. Fish and Wildlife Service",
+        "license": "Dominio público",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Panther_puma_animal_puma_concolor_coryi.jpg#Licensing",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Panther_puma_animal_puma_concolor_coryi.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Panther_puma_animal_puma_concolor_coryi.jpg?utm_campaign=index&utm_content=thumbnail_unscaled&utm_source=commons.wikimedia.org",
+        "caption": "Puma fotografiado en Florida, Estados Unidos. Encuadre adaptado.",
+        "changes": "Redimensionada y convertida a WebP; encuadre ajustado en la página."
+      }
+    },
+    {
+      "id": "BC-40",
+      "number": 40,
+      "title": "El coloso del mar",
+      "species": "Balaenoptera musculus",
+      "common": "Ballena azul",
+      "group": "animal",
+      "subgroup": "Mamífero marino",
+      "setting": "Océano",
+      "role": "Filtración de kril",
+      "description": "La ballena azul es un mamífero marino que filtra kril con sus barbas. Aunque vive en el agua, respira aire y necesita salir a la superficie.",
+      "connection": "Su tamaño contrasta con el de sus presas: diminutos crustáceos sostienen al animal más grande del planeta.",
+      "sources": [
+        {
+          "label": "NOAA Fisheries",
+          "url": "https://www.fisheries.noaa.gov/species/blue-whale"
+        }
+      ],
+      "image": "assets/cards/40.webp",
+      "thumbnail": "assets/cards/40-thumb.webp",
+      "sourcePdf": "0_Frontal.pdf",
+      "sourcePage": 1,
+      "photo": "assets/whale.webp",
+      "photoCredit": {
+        "author": "NOAA",
+        "license": "Dominio público",
+        "licenseUrl": "https://channelislands.noaa.gov/news/media_resources.html",
+        "sourcePage": "https://channelislands.noaa.gov/news/media_resources.html",
+        "imageUrl": "https://nmschannelislands.blob.core.windows.net/channelislands-prod/media/img/blue-whales-cinms-noaa.jpg",
+        "caption": "Ballenas azules cerca de la superficie. Encuadre adaptado.",
+        "changes": "Redimensionada y convertida a WebP; encuadre ajustado en la página."
+      }
+    }
+  ]
+}
