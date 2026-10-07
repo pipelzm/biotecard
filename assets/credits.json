@@ -1,0 +1,47 @@
+{
+  "condor": {
+    "author": "Charles J. Sharp; recorte por Bloopityboop",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Andean_condor_(Vultur_gryphus)_male_in_flight_Torres_del_Paine_(cropped).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Andean_condor_%28Vultur_gryphus%29_male_in_flight_Torres_del_Paine_%28cropped%29.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+    "caption": "Cóndor andino en vuelo, Torres del Paine. Encuadre adaptado.",
+    "changes": "Redimensionada y convertida a WebP; encuadre ajustado en la página."
+  },
+  "puma": {
+    "author": "John and Karen Hollingsworth, U.S. Fish and Wildlife Service",
+    "license": "Dominio público",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Panther_puma_animal_puma_concolor_coryi.jpg#Licensing",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Panther_puma_animal_puma_concolor_coryi.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Panther_puma_animal_puma_concolor_coryi.jpg?utm_campaign=index&utm_content=thumbnail_unscaled&utm_source=commons.wikimedia.org",
+    "caption": "Puma fotografiado en Florida, Estados Unidos. Encuadre adaptado.",
+    "changes": "Redimensionada y convertida a WebP; encuadre ajustado en la página."
+  },
+  "whale": {
+    "author": "NOAA",
+    "license": "Dominio público",
+    "licenseUrl": "https://channelislands.noaa.gov/news/media_resources.html",
+    "sourcePage": "https://channelislands.noaa.gov/news/media_resources.html",
+    "imageUrl": "https://nmschannelislands.blob.core.windows.net/channelislands-prod/media/img/blue-whales-cinms-noaa.jpg",
+    "caption": "Ballenas azules cerca de la superficie. Encuadre adaptado.",
+    "changes": "Redimensionada y convertida a WebP; encuadre ajustado en la página."
+  },
+  "staph": {
+    "author": "NIAID / Frank DeLeo",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Staphylococcus_aureus_Bacteria_(5148710483).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Staphylococcus_aureus_Bacteria_%285148710483%29.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+    "caption": "Micrografía electrónica coloreada de S. aureus; colores añadidos. Encuadre adaptado.",
+    "changes": "Redimensionada y convertida a WebP; encuadre ajustado en la página."
+  },
+  "rhizobium": {
+    "author": "Qaswarah 21",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Root_nodules_of_Fabaceae.png",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Root_nodules_of_Fabaceae.png?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+    "caption": "Nódulos de una leguminosa; imagen de contexto de la simbiosis, no identificación de la especie bacteriana. Encuadre adaptado.",
+    "changes": "Redimensionada y convertida a WebP; encuadre ajustado en la página."
+  }
+}
