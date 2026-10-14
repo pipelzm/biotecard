@@ -1,0 +1,22 @@
+BIOTECARD — PÁGINA WEB Y MI PARTIDA
+Aukantun Team · 2026
+
+PUBLICAR
+Descomprime este ZIP y sube su contenido a la raíz de tu repositorio. index.html debe quedar en esa raíz, junto con assets/, data/ y los demás archivos. Incluye .nojekyll. Publica esa carpeta con GitHub Pages o un alojamiento de sitios estáticos. No necesita compilación ni instalación de dependencias. Para probarla localmente, usa un servidor web; abrir el HTML como archivo puede impedir la carga del catálogo JSON.
+
+LA COLECCIÓN
+50 cartas reales ordenadas por número, carrusel, fichas científicas y fotografías con sus fuentes. El interruptor permite desactivar el movimiento de las cartas. Conserva las imágenes, los créditos y las licencias incluidas.
+
+MI PARTIDA — VERSIÓN SIMPLIFICADA
+Abre bitacora.html desde Mi partida. Añade los nombres, elige las cartas por sus imágenes y sigue la guía de cada jugador: carta, lugar y ganador. Las reglas especiales, probabilidades y estadísticas son opcionales y se despliegan al tocarlas. Las partidas guardadas anteriormente siguen siendo compatibles.
+
+PUNTUACIÓN
+Modo normal: 9 rondas y 2 puntos por ronda ganada. Confirma el ganador y las condiciones de las estrellas según lo ocurrido en la mesa. El contador suma 1 punto por GEN, por cada 2 nucleótidos y por cada 3 ATP sobrantes; los grupos incompletos no puntúan. Los efectos de las cartas se anotan manualmente. Mover cartas o añadir casillas no descuenta recursos automáticamente: actualiza los recursos que quedan en la mesa.
+
+GUARDADO
+Las partidas se guardan solo en ese navegador y en ese dominio. Usa «Guardar una copia o abrir otra» para descargar un respaldo JSON antes de cambiar de dispositivo, navegador o dominio. Importa esa copia en la nueva página. No existe sincronización automática entre jugadores o dispositivos. La ronda en curso se registra al pulsar «Guardar ronda».
+
+PROBABILIDADES
+Son estimaciones de robo basadas en las cartas conocidas y un reparto uniforme sin reemplazo. No predicen quién ganará. Las manos sin registrar siguen formando parte del conjunto desconocido.
+
+Sitio estático sin servicios de pago ni cuentas de jugador.

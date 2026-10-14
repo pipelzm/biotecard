@@ -1,0 +1,2187 @@
+{
+  "schemaVersion": 1,
+  "edition": "Colección inicial",
+  "status": "En desarrollo",
+  "cards": [
+    {
+      "id": "BC-A01",
+      "number": 1,
+      "title": "El dardo de las corrientes",
+      "species": "Basilichthys microlepidotus",
+      "common": "Pejerrey del norte",
+      "group": "animal",
+      "image": "assets/cards/a01.webp",
+      "thumbnail": "assets/cards/a01-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 2,
+      "photoCredit": {
+        "caption": "Pejerrey del norte (Basilichthys microlepidotus). Fotografía de observación en iNaturalist.",
+        "author": "Katherin Solis-Lufí",
+        "sourcePage": "https://www.inaturalist.org/observations/133424879",
+        "license": "CC-BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/227267263/large.jpeg",
+        "changes": "Redimensionada y convertida a WebP, sin alterar el contenido."
+      },
+      "description": "Basilichthys microlepidotus es un pejerrey nativo de aguas continentales chilenas. Tiene cuerpo alargado y escamas pequeñas, y utiliza ríos y otros ambientes de agua dulce.",
+      "subgroup": "Pez de agua dulce",
+      "setting": "Ríos y aguas continentales de Chile",
+      "role": "Consumidor en la red alimentaria acuática",
+      "connection": "La estructura de la vegetación acuática ofrece superficies a las que pueden adherirse sus huevos durante la reproducción.",
+      "curiosity": "Los huevos tienen filamentos que permiten reunirlos en racimos y fijarlos a plantas acuáticas. La vegetación del río también forma parte de su reproducción.",
+      "curiositySources": [
+        {
+          "label": "SIMBIO · Ministerio del Medio Ambiente",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4354"
+        }
+      ],
+      "sources": [
+        {
+          "label": "SIMBIO · Ministerio del Medio Ambiente",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4354"
+        }
+      ],
+      "photo": "assets/organisms/bc-a01.webp",
+      "preview": "assets/cards/a01-preview.webp",
+      "photoWidth": 893,
+      "photoHeight": 398
+    },
+    {
+      "id": "BC-P01",
+      "number": 1,
+      "title": "Esponja del fin del mundo",
+      "species": "Sphagnum magellanicum",
+      "common": "Musgo de turbera",
+      "group": "plant",
+      "image": "assets/cards/p01.webp",
+      "thumbnail": "assets/cards/p01-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 2,
+      "curiosity": "Entre sus células fotosintéticas hay células hialinas que retienen agua. Esta estructura ayuda a explicar por qué un tapiz de Sphagnum funciona como una esponja en las turberas.",
+      "curiositySources": [
+        {
+          "label": "INIA · Sphagnum magellanicum, el musgo de la turbera",
+          "url": "https://biblioteca.inia.cl/server/api/core/bitstreams/a949e0ac-369d-49f6-a993-5ee071992028/content"
+        }
+      ],
+      "subgroup": "Musgo de turbera",
+      "setting": "Turberas del sur de Sudamérica",
+      "role": "Retención de agua y formación de turba",
+      "description": "Sphagnum magellanicum es un musgo asociado a turberas del sur de Sudamérica. Sus tapices retienen agua y contribuyen a la acumulación de materia orgánica que forma la turba. El nombre se ha utilizado históricamente para un complejo de especies; los estudios genéticos han separado varios de esos linajes.",
+      "connection": "La fotografía muestra una turbera de Chiloé identificada por su autor como Sphagnum magellanicum. La identificación dentro de este complejo puede requerir estudios microscópicos o genéticos.",
+      "sources": [
+        {
+          "label": "SIMBIO · Sphagnum magellanicum",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/6076"
+        },
+        {
+          "label": "New Phytologist · Complejo Sphagnum magellanicum",
+          "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18429"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Turbera de Chiloé identificada por el autor como Sphagnum magellanicum. Fotografía real; tamaño optimizado para la web.",
+        "author": "Lin linao",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Turbera_en_bosque_de_Chonchi_02.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-p01.webp",
+      "preview": "assets/cards/p01-preview.webp",
+      "photoWidth": 960,
+      "photoHeight": 1045
+    },
+    {
+      "id": "BC-01",
+      "number": 1,
+      "title": "El intruso del nido",
+      "species": "Chlamydia psittaci",
+      "common": "Clamidia de las aves",
+      "group": "bacteria",
+      "subgroup": "Bacteria intracelular",
+      "setting": "Aves y otros hospedadores",
+      "role": "Interacción con hospedadores",
+      "description": "Chlamydia psittaci es una bacteria que infecta aves y puede causar psitacosis en humanos. No afecta únicamente a loros.",
+      "connection": "Su ciclo permite explorar las conexiones entre microorganismos y hospedadores de distintas especies.",
+      "sources": [
+        {
+          "label": "CDC · Psitacosis",
+          "url": "https://www.cdc.gov/psittacosis/about/index.html"
+        }
+      ],
+      "image": "assets/cards/01.webp",
+      "thumbnail": "assets/cards/01-thumb.webp",
+      "sourcePdf": "0_Frontal-2(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "Aunque se la conoce como «enfermedad del loro», la psitacosis también puede estar asociada a otras aves. La bacteria puede viajar en el polvo de secreciones o excrementos secos de aves infectadas.",
+      "curiositySources": [
+        {
+          "label": "CDC · Psitacosis",
+          "url": "https://www.cdc.gov/psittacosis/about/"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Chlamydia psittaci en una muestra de tejido, detectada mediante tinción de anticuerpos fluorescentes (400×).",
+        "author": "CDC/Dr. Vester Lewis",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Chlamydophila_psittaci_FA_stain.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-01.webp",
+      "preview": "assets/cards/01-preview.webp",
+      "photoWidth": 1100,
+      "photoHeight": 732
+    },
+    {
+      "id": "BC-A02",
+      "number": 2,
+      "title": "El fantasma de la piedra",
+      "species": "Liolaemus cyanogaster",
+      "common": "Lagartija de vientre azul",
+      "group": "animal",
+      "image": "assets/cards/a02.webp",
+      "thumbnail": "assets/cards/a02-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 2,
+      "photoCredit": {
+        "caption": "Lagartija de vientre azul (Liolaemus cyanogaster). Fotografía de observación en iNaturalist.",
+        "author": "Cata Hernández",
+        "sourcePage": "https://www.inaturalist.org/observations/324050867",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/586446993/large.jpg",
+        "changes": "Redimensionada y convertida a WebP, sin alterar el contenido."
+      },
+      "description": "Liolaemus cyanogaster es una lagartija nativa de Chile y Argentina, asociada a bosques templados y vegetación cercana. Su coloración es variable: hay ejemplares cafés, amarillentos y verdes.",
+      "subgroup": "Reptil",
+      "setting": "Bosques templados, pastizales y cercos",
+      "role": "Consumidor de artrópodos",
+      "connection": "Es vivípara: las crías nacen vivas. Su agilidad le permite desplazarse entre la vegetación del bosque y sus bordes.",
+      "curiosity": "A pesar de su nombre, el vientre del animal vivo puede ser blanquecino, café o verde. El tono azul descrito históricamente aparece al conservar ejemplares en fijador.",
+      "curiositySources": [
+        {
+          "label": "SIMBIO · Ministerio del Medio Ambiente",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4654"
+        },
+        {
+          "label": "Ministerio de Educación · Liolaemus cyanogaster",
+          "url": "https://www.curriculumnacional.cl/estudiante/621/articles-255376_recurso_pdf.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "SIMBIO · Ministerio del Medio Ambiente",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4654"
+        },
+        {
+          "label": "Ministerio de Educación · Liolaemus cyanogaster",
+          "url": "https://www.curriculumnacional.cl/estudiante/621/articles-255376_recurso_pdf.pdf"
+        }
+      ],
+      "photo": "assets/organisms/bc-a02.webp",
+      "preview": "assets/cards/a02-preview.webp",
+      "photoWidth": 1024,
+      "photoHeight": 768
+    },
+    {
+      "id": "BC-P02",
+      "number": 2,
+      "title": "Enfriadora del planeta",
+      "species": "Azolla filiculoides",
+      "common": "Helecho de agua",
+      "group": "plant",
+      "image": "assets/cards/p02.webp",
+      "thumbnail": "assets/cards/p02-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 2,
+      "curiosity": "Dentro de pequeñas cavidades de sus hojas vive una cianobacteria capaz de fijar nitrógeno. Esta compañera se transmite a la siguiente generación del helecho, manteniendo una asociación muy estrecha.",
+      "curiositySources": [
+        {
+          "label": "Ran et al. · Endosimbionte de Azolla",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2900214/"
+        }
+      ],
+      "subgroup": "Helecho acuático",
+      "setting": "Aguas dulces de corriente lenta",
+      "role": "Productor primario en simbiosis",
+      "description": "Azolla filiculoides es un pequeño helecho flotante de agua dulce. Sus hojas alojan una cianobacteria simbionte que fija nitrógeno atmosférico. A diferencia de las plantas con flores, los helechos se reproducen mediante esporas.",
+      "connection": "La fijación de nitrógeno de esta asociación corresponde a la cianobacteria. El helecho aporta un lugar donde vivir y compuestos obtenidos de la fotosíntesis.",
+      "sources": [
+        {
+          "label": "Kew · Azolla filiculoides",
+          "url": "https://powo.science.kew.org/taxon/17056950-1"
+        },
+        {
+          "label": "Estudio de la simbiosis Azolla–cianobacteria",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5901025/"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Azolla filiculoides. Fotografía real; tamaño optimizado para la web.",
+        "author": "Diego Almendras",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Azolla_filiculoides_182627058.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-p02.webp",
+      "preview": "assets/cards/p02-preview.webp",
+      "photoWidth": 825,
+      "photoHeight": 1100
+    },
+    {
+      "id": "BC-02",
+      "number": 2,
+      "title": "El parásito obligado",
+      "species": "Chlamydia trachomatis",
+      "common": "Clamidia",
+      "group": "bacteria",
+      "subgroup": "Bacteria intracelular",
+      "setting": "Células de hospedadores humanos",
+      "role": "Dependencia del hospedador",
+      "description": "Chlamydia trachomatis es una bacteria que necesita células del hospedador para completar su ciclo. Algunas de sus infecciones humanas pueden cursar sin síntomas.",
+      "connection": "Su dependencia celular ilustra una estrategia biológica distinta de la de las bacterias que viven libremente en el ambiente.",
+      "sources": [
+        {
+          "label": "CDC · Chlamydia",
+          "url": "https://www.cdc.gov/chlamydia/about/index.html"
+        }
+      ],
+      "image": "assets/cards/02.webp",
+      "thumbnail": "assets/cards/02-thumb.webp",
+      "sourcePdf": "0_Frontal-2(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "Su ciclo alterna entre cuerpos elementales, especializados en iniciar la infección, y cuerpos reticulados, que se multiplican dentro de las células del hospedador.",
+      "curiositySources": [
+        {
+          "label": "mSystems · Ciclo de desarrollo",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7567582/"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Inclusiones de Chlamydia trachomatis teñidas de marrón dentro de células McCoy cultivadas.",
+        "author": "User Marcus007 on de.wikipedia",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:ChlamydiaTrachomatisEinschlussk%C3%B6rperchen.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-02.webp",
+      "preview": "assets/cards/02-preview.webp",
+      "photoWidth": 700,
+      "photoHeight": 459
+    },
+    {
+      "id": "BC-A03",
+      "number": 3,
+      "title": "El custodio del sotobosque",
+      "species": "Rhinoderma darwinii",
+      "common": "Ranita de Darwin",
+      "group": "animal",
+      "image": "assets/cards/a03.webp",
+      "thumbnail": "assets/cards/a03-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 2,
+      "photoCredit": {
+        "caption": "Ranita de Darwin (Rhinoderma darwinii). Fotografía de observación en iNaturalist.",
+        "author": "Nicolas Olejnik",
+        "sourcePage": "https://www.inaturalist.org/observations/38645566",
+        "license": "CC-BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61450688/large.jpeg",
+        "changes": "Redimensionada y convertida a WebP, sin alterar el contenido."
+      },
+      "description": "La ranita de Darwin es un pequeño anfibio de los bosques templados de Chile y Argentina. Su cuerpo y su hocico puntiagudo le dan un aspecto semejante al de una hoja entre la hojarasca.",
+      "subgroup": "Anfibio",
+      "setting": "Sotobosque húmedo de bosques templados",
+      "role": "Consumidor de pequeños invertebrados",
+      "connection": "Su reproducción depende de un cuidado paternal extraordinario: el macho ofrece un ambiente protegido para el desarrollo larvario dentro de su saco vocal.",
+      "curiosity": "El macho mantiene a sus renacuajos dentro del saco vocal hasta que completan la metamorfosis. Después libera pequeñas ranitas al ambiente terrestre.",
+      "curiositySources": [
+        {
+          "label": "Ministerio del Medio Ambiente · Plan de recuperación de ranitas de Darwin",
+          "url": "https://consultasciudadanas.mma.gob.cl/storage/consultation/Ls3eHPJJERjeiPcUe3uf7EwxrtsAU0gk6DDqo28L.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Ministerio del Medio Ambiente · Plan de recuperación de ranitas de Darwin",
+          "url": "https://consultasciudadanas.mma.gob.cl/storage/consultation/Ls3eHPJJERjeiPcUe3uf7EwxrtsAU0gk6DDqo28L.pdf"
+        }
+      ],
+      "photo": "assets/organisms/bc-a03.webp",
+      "preview": "assets/cards/a03-preview.webp",
+      "photoWidth": 1024,
+      "photoHeight": 750
+    },
+    {
+      "id": "BC-P03",
+      "number": 3,
+      "title": "El tapiz de las lagunas",
+      "species": "Lemna minor",
+      "common": "Lenteja de agua",
+      "group": "plant",
+      "image": "assets/cards/p03.webp",
+      "thumbnail": "assets/cards/p03-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 2,
+      "curiosity": "Aunque parezca una simple lámina verde flotante, pertenece a las plantas con flores. Sus diminutas frondes tienen una raíz colgante y pueden medir solo unos milímetros.",
+      "curiositySources": [
+        {
+          "label": "Kew · Descripción de Lemna minor",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:526194-1/general-information"
+        }
+      ],
+      "subgroup": "Planta acuática con flores",
+      "setting": "Aguas dulces tranquilas",
+      "role": "Productor primario",
+      "description": "Lemna minor es una pequeña planta flotante de agua dulce. Su cuerpo verde, llamado fronde, suele medir pocos milímetros y presenta una raíz que cuelga en el agua. Aunque sus flores son diminutas y poco frecuentes, es una angiosperma.",
+      "connection": "Su tamaño reducido muestra que una planta no necesita un tronco ni hojas grandes para captar luz y producir materia orgánica.",
+      "sources": [
+        {
+          "label": "Kew · Lemna minor",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:526194-1/general-information"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Lemna minor. Fotografía real; tamaño optimizado para la web.",
+        "author": "Robert H. Mohlenbrock / USDA NRCS",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Lemna_minor_NRCS-1.jpg",
+        "license": "Dominio público",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-p03.webp",
+      "preview": "assets/cards/p03-preview.webp",
+      "photoWidth": 1100,
+      "photoHeight": 733
+    },
+    {
+      "id": "BC-03",
+      "number": 3,
+      "title": "El colono de la dermis",
+      "species": "Cutibacterium acnes",
+      "common": "Cutibacteria cutánea",
+      "group": "bacteria",
+      "subgroup": "Bacteria de la piel",
+      "setting": "Piel rica en sebo",
+      "role": "Miembro de la microbiota",
+      "description": "Cutibacterium acnes forma parte de la microbiota de la piel, especialmente en áreas ricas en sebo. También puede participar en procesos inflamatorios.",
+      "connection": "Su presencia no significa por sí sola enfermedad. Las interacciones con el hospedador y con otros microorganismos importan.",
+      "sources": [
+        {
+          "label": "Microorganisms · Microbiota cutánea",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8003110/"
+        }
+      ],
+      "image": "assets/cards/03.webp",
+      "thumbnail": "assets/cards/03-thumb.webp",
+      "sourcePdf": "0_Frontal-2(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "Algunas cepas producen porfirinas que emiten fluorescencia naranja rosada bajo iluminación adecuada. La intensidad puede variar entre cepas.",
+      "curiositySources": [
+        {
+          "label": "mSphere · Producción de porfirinas",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6968654/"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Micrografía de Cutibacterium acnes (antes Propionibacterium acnes) cultivada en medio de tioglicolato.",
+        "author": "CDC/Bobby Strong",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Propionibacterium_acnes.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-03.webp",
+      "preview": "assets/cards/03-preview.webp",
+      "photoWidth": 1100,
+      "photoHeight": 741
+    },
+    {
+      "id": "BC-A04",
+      "number": 4,
+      "title": "La obrera del ecosistema",
+      "species": "Corynura chloris",
+      "common": "Abeja verde nativa",
+      "group": "animal",
+      "image": "assets/cards/a04.webp",
+      "thumbnail": "assets/cards/a04-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 2,
+      "photoCredit": {
+        "caption": "Abeja verde nativa (Callistochlora chloris). Fotografía de observación en iNaturalist.",
+        "author": "Jordan Viveros",
+        "sourcePage": "https://www.inaturalist.org/observations/265312244",
+        "license": "CC-BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/476535885/large.jpeg",
+        "changes": "Redimensionada y convertida a WebP, sin alterar el contenido."
+      },
+      "description": "Esta pequeña abeja nativa destaca por su brillo verde metálico. La carta utiliza el nombre Corynura chloris; también se conoce como Callistochlora chloris en publicaciones y registros actuales.",
+      "subgroup": "Insecto · abeja nativa",
+      "setting": "Ambientes con flores, incluidos espacios urbanos",
+      "role": "Polinización",
+      "connection": "Visita flores y construye sus nidos en el suelo. Proteger tanto los recursos florales como los sitios de nidificación ayuda a conservar sus poblaciones.",
+      "curiosity": "En el Parque Quinta Normal se han documentado nidos de esta abeja en el suelo. Su aspecto verde metálico permite observar una abeja muy distinta de la abeja de la miel.",
+      "curiositySources": [
+        {
+          "label": "Museo Nacional de Historia Natural",
+          "url": "https://www.mnhn.gob.cl/noticias/la-abejita-silvestre-verde-esmeralda-de-la-quinta-normal-vuelve-al-antiguo-sitio-de"
+        },
+        {
+          "label": "Universidad de Chile · Abejas nativas",
+          "url": "https://portaluchile.uchile.cl/noticias/228285/conocer-para-proteger-el-verdadero-mundo-de-las-abejas-nativas"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Museo Nacional de Historia Natural",
+          "url": "https://www.mnhn.gob.cl/noticias/la-abejita-silvestre-verde-esmeralda-de-la-quinta-normal-vuelve-al-antiguo-sitio-de"
+        },
+        {
+          "label": "Universidad de Chile · Abejas nativas",
+          "url": "https://portaluchile.uchile.cl/noticias/228285/conocer-para-proteger-el-verdadero-mundo-de-las-abejas-nativas"
+        }
+      ],
+      "photo": "assets/organisms/bc-a04.webp",
+      "preview": "assets/cards/a04-preview.webp",
+      "photoWidth": 563,
+      "photoHeight": 1000
+    },
+    {
+      "id": "BC-P04",
+      "number": 4,
+      "title": "El guardián de las espinas",
+      "species": "Echinopsis chiloensis",
+      "common": "Quisco",
+      "group": "plant",
+      "image": "assets/cards/p04.webp",
+      "thumbnail": "assets/cards/p04-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "Esta especie aparece con varios nombres científicos en libros y colecciones. Kew trata Echinopsis chiloensis como sinónimo de Leucostele chiloensis: es el mismo quisco de la carta.",
+      "curiositySources": [
+        {
+          "label": "Kew · Sinonimia del quisco",
+          "url": "https://powo.science.kew.org/taxon/132630-1"
+        }
+      ],
+      "subgroup": "Cactácea columnar",
+      "setting": "Ambientes secos de Chile central",
+      "role": "Productor primario",
+      "description": "El quisco es una cactácea de tallos columnares originaria de Chile central. El nombre Echinopsis chiloensis utilizado en la carta es considerado sinónimo de Leucostele chiloensis por Plants of the World Online.",
+      "connection": "Los nombres científicos pueden cambiar cuando se revisa la clasificación. Conservar los sinónimos permite relacionar la carta con la información botánica actual.",
+      "sources": [
+        {
+          "label": "Kew · Leucostele chiloensis",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77122512-1"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Echinopsis chiloensis. Fotografía real; tamaño optimizado para la web.",
+        "author": "Penarc",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Echinopsis_chiloensis_5.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-p04.webp",
+      "preview": "assets/cards/p04-preview.webp",
+      "photoWidth": 825,
+      "photoHeight": 1100
+    },
+    {
+      "id": "BC-04",
+      "number": 4,
+      "title": "El motor simbiótico",
+      "species": "Bifidobacterium animalis",
+      "common": "Bifidobacteria",
+      "group": "bacteria",
+      "subgroup": "Bacteria intestinal",
+      "setting": "Tracto gastrointestinal",
+      "role": "Metabolismo de carbohidratos",
+      "description": "Bifidobacterium animalis es una bacteria asociada al tracto gastrointestinal. Distintas cepas se estudian por su metabolismo y su interacción con el hospedador.",
+      "connection": "Los resultados obtenidos con una cepa no se pueden extender sin más a toda la especie.",
+      "sources": [
+        {
+          "label": "Microbiology Resource Announcements · Genoma",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11320947/"
+        }
+      ],
+      "image": "assets/cards/04.webp",
+      "thumbnail": "assets/cards/04-thumb.webp",
+      "sourcePdf": "0_Frontal-2(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "No se limita a los productos probióticos: también se ha aislado de animales silvestres. Un estudio de 2025 caracterizó una cepa obtenida de jabalíes y secuenció su genoma completo.",
+      "curiositySources": [
+        {
+          "label": "Microorganisms · Cepa aislada de jabalíes",
+          "url": "https://www.mdpi.com/2076-2607/13/7/1666"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Bifidobacterium animalis aislada de jabalíes: micrografía electrónica de barrido. Panel E de la figura 1, con su escala original.",
+        "author": "Tenggang Di y colaboradores (2025)",
+        "sourcePage": "https://www.mdpi.com/2076-2607/13/7/1666",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Recorte del panel E y conversión a WebP."
+      },
+      "photo": "assets/organisms/bc-04.webp",
+      "preview": "assets/cards/04-preview.webp",
+      "photoWidth": 447,
+      "photoHeight": 337
+    },
+    {
+      "id": "BC-A05",
+      "number": 5,
+      "title": "El acorazado del río",
+      "species": "Aegla papudo",
+      "common": "Pancora de Papudo",
+      "group": "animal",
+      "image": "assets/cards/a05.webp",
+      "thumbnail": "assets/cards/a05-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 2,
+      "photoCredit": {
+        "caption": "Aegla papudo en una poza del estero Los Coiles, Valparaíso. Panel d de la figura 2.",
+        "author": "César Chávez-Villavicencio, Elier Tabilo-Valdivieso y Sergio Acuña-Videla (2022), Caldasia 44:594–602",
+        "sourcePage": "https://revistas.unal.edu.co/index.php/cal/article/view/94138",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Recorte del panel d de la figura 2 y conversión a WebP."
+      },
+      "description": "Aegla papudo es un crustáceo de agua dulce endémico de Chile. Vive en cursos de agua de la zona central, donde utiliza fondos con barro, grava, piedras y hojarasca.",
+      "subgroup": "Crustáceo decápodo",
+      "setting": "Esteros y pozas de Chile central",
+      "role": "Integrante del bentos de agua dulce",
+      "connection": "Su hábitat incluye el fondo de pequeños cursos de agua. La continuidad de esos ambientes es importante para conservar sus poblaciones.",
+      "curiosity": "Un estudio en la cordillera El Melón encontró juveniles de menos de un centímetro, de tonos blanquecinos o rosados, en pequeñas pozas de esteros.",
+      "curiositySources": [
+        {
+          "label": "Chávez-Villavicencio y colaboradores (2022) · Caldasia",
+          "url": "https://revistas.unal.edu.co/index.php/cal/article/view/94138"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Chávez-Villavicencio y colaboradores (2022) · Caldasia",
+          "url": "https://revistas.unal.edu.co/index.php/cal/article/view/94138"
+        }
+      ],
+      "photo": "assets/organisms/bc-a05.webp",
+      "preview": "assets/cards/a05-preview.webp",
+      "photoWidth": 511,
+      "photoHeight": 371
+    },
+    {
+      "id": "BC-P05",
+      "number": 5,
+      "title": "La escultura de la niebla",
+      "species": "Copiapoa cinerea",
+      "common": "Copiapoa cenicienta",
+      "group": "plant",
+      "image": "assets/cards/p05.webp",
+      "thumbnail": "assets/cards/p05-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "Su cuerpo puede comenzar casi esférico y alargarse con la edad, además de ramificarse. Las flores amarillas surgen sobre una planta capaz de vivir en laderas extremadamente áridas.",
+      "curiositySources": [
+        {
+          "label": "SIMBIO · Copiapoa cinerea",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/15526"
+        }
+      ],
+      "subgroup": "Cactácea suculenta",
+      "setting": "Laderas áridas del norte de Chile",
+      "role": "Productor primario",
+      "description": "Copiapoa cinerea es una cactácea endémica de Chile. Sus tallos con costillas y espinas pueden crecer en grupos y producen flores amarillas. Las poblaciones típicas se encuentran en el entorno de Paposo y Taltal.",
+      "connection": "Su forma suculenta permite almacenar agua; aun así, la supervivencia de sus poblaciones depende de conservar el hábitat desértico.",
+      "sources": [
+        {
+          "label": "SIMBIO · Copiapoa cinerea",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/15526"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Copiapoa cinerea. Fotografía real; tamaño optimizado para la web.",
+        "author": "Petar43",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Copiapoa_cinerea_3.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-p05.webp",
+      "preview": "assets/cards/p05-preview.webp",
+      "photoWidth": 825,
+      "photoHeight": 1100
+    },
+    {
+      "id": "BC-05",
+      "number": 5,
+      "title": "El fermentador ácido",
+      "species": "Acetobacter aceti",
+      "common": "Bacteria del vinagre",
+      "group": "bacteria",
+      "subgroup": "Bacteria acética",
+      "setting": "Medios con etanol y oxígeno",
+      "role": "Oxidación de etanol",
+      "description": "Acetobacter aceti es una bacteria acética que puede oxidar etanol a ácido acético en presencia de oxígeno.",
+      "connection": "Este metabolismo se relaciona con la elaboración de vinagre. La oxidación acética requiere oxígeno, a diferencia de muchas fermentaciones.",
+      "sources": [
+        {
+          "label": "Journal of Bacteriology · Investigación",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2447011/"
+        }
+      ],
+      "image": "assets/cards/05.webp",
+      "thumbnail": "assets/cards/05-thumb.webp",
+      "sourcePdf": "0_Frontal-2(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "Tiene una variante del ciclo del ácido cítrico que ayuda a resistir el ácido acético. Una enzima llamada AarC participa en esta adaptación a un ambiente que resulta hostil para muchos microorganismos.",
+      "curiositySources": [
+        {
+          "label": "Journal of Bacteriology · Resistencia al ácido acético",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2447011/"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Acetobacter aceti sin tratamiento: micrografía electrónica de barrido (6000×). Panel A de la figura 2; escala de 5 µm.",
+        "author": "Yongxin Teng y colaboradores (2025)",
+        "sourcePage": "https://doi.org/10.3390/foods14244188",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Recorte del panel A y conversión a WebP."
+      },
+      "photo": "assets/organisms/bc-05.webp",
+      "preview": "assets/cards/05-preview.webp",
+      "photoWidth": 259,
+      "photoHeight": 185
+    },
+    {
+      "id": "BC-06",
+      "number": 6,
+      "title": "El puente invisible",
+      "species": "Rhizophagus irregularis",
+      "common": "Hongo micorrícico",
+      "group": "fungus",
+      "subgroup": "Hongo micorrícico",
+      "setting": "Suelo y raíces",
+      "role": "Simbiosis con plantas",
+      "description": "Rhizophagus irregularis forma micorrizas arbusculares en las raíces de muchas plantas. Sus hifas exploran el suelo y ayudan a obtener nutrientes, especialmente fósforo, a cambio de recursos carbonados de la planta.",
+      "connection": "La asociación permite intercambios entre la planta y el hongo. Las micorrizas muestran cómo una interacción puede conectar organismos de grupos distintos.",
+      "sources": [
+        {
+          "label": "The ISME Journal · Investigación",
+          "url": "https://www.nature.com/articles/ismej201629"
+        },
+        {
+          "label": "Science · Intercambio de lípidos en micorrizas",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28596307/"
+        }
+      ],
+      "image": "assets/cards/06.webp",
+      "thumbnail": "assets/cards/06-thumb.webp",
+      "sourcePdf": "0_Frontal-3(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "Dentro de las raíces forma arbúsculos, estructuras muy ramificadas donde ocurre el intercambio de nutrientes. La planta también le entrega lípidos: este hongo depende de ácidos grasos producidos por su hospedero.",
+      "curiositySources": [
+        {
+          "label": "Science · Intercambio de lípidos en micorrizas",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28596307/"
+        }
+      ],
+      "photoCredit": {
+        "author": "Hector Montero",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Arbuscule.png",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "caption": "Arbúsculo de Rhizophagus irregularis en una raíz de maíz; microscopía confocal.",
+        "changes": "Redimensionada y convertida a WebP, sin modificar el contenido."
+      },
+      "photo": "assets/organisms/bc-06.webp",
+      "preview": "assets/cards/06-preview.webp",
+      "photoWidth": 1200,
+      "photoHeight": 1101
+    },
+    {
+      "id": "BC-07",
+      "number": 7,
+      "title": "El motor metabólico",
+      "species": "Saccharomyces cerevisiae",
+      "common": "Levadura de panadería",
+      "group": "fungus",
+      "subgroup": "Levadura",
+      "setting": "Sustratos ricos en azúcares",
+      "role": "Fermentación",
+      "description": "Saccharomyces cerevisiae es una levadura: un hongo unicelular. Su capacidad de fermentar azúcares se utiliza en panadería y en otras fermentaciones.",
+      "connection": "Durante la fermentación alcohólica produce etanol y dióxido de carbono. También es un organismo modelo en investigación.",
+      "sources": [
+        {
+          "label": "Saccharomyces Genome Database",
+          "url": "https://pathway.yeastgenome.org/YEAST/NEW-IMAGE?detail-level=1&object=Fermentation"
+        },
+        {
+          "label": "NHGRI · El genoma de la levadura",
+          "url": "https://www.genome.gov/25520379/online-education-kit-1996-yeast-genome-sequenced"
+        }
+      ],
+      "image": "assets/cards/07.webp",
+      "thumbnail": "assets/cards/07-thumb.webp",
+      "sourcePdf": "0_Frontal-3(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "En 1996 se convirtió en el primer organismo eucariota cuyo genoma se secuenció por completo. La misma especie que ayuda a hacer pan es una herramienta fundamental para estudiar cómo funcionan las células.",
+      "curiositySources": [
+        {
+          "label": "NHGRI · El genoma de la levadura",
+          "url": "https://www.genome.gov/25520379/online-education-kit-1996-yeast-genome-sequenced"
+        }
+      ],
+      "photoCredit": {
+        "author": "Mogana Das Murtey and Patchamuthu Ramasamy",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Saccharomyces_cerevisiae_SEM.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "caption": "Células de Saccharomyces cerevisiae en gemación; microscopía electrónica de barrido.",
+        "changes": "Redimensionada y convertida a WebP, sin modificar el contenido."
+      },
+      "photo": "assets/organisms/bc-07.webp",
+      "preview": "assets/cards/07-preview.webp",
+      "photoWidth": 1200,
+      "photoHeight": 775
+    },
+    {
+      "id": "BC-08",
+      "number": 8,
+      "title": "El azote bacteriano",
+      "species": "Penicillium chrysogenum",
+      "common": "Penicillium",
+      "group": "fungus",
+      "subgroup": "Moho",
+      "setting": "Materia orgánica",
+      "role": "Metabolismo de compuestos orgánicos",
+      "description": "Penicillium chrysogenum es un moho filamentoso de la sección Chrysogena. Este grupo reúne especies muy parecidas que pueden distinguirse mediante análisis moleculares; algunas cepas históricamente llamadas P. chrysogenum pertenecen en realidad a P. rubens.",
+      "connection": "Los nombres científicos cambian con la evidencia. La carta conserva Penicillium chrysogenum; la fotografía muestra un cultivo identificado con ese nombre en un estudio de 2023.",
+      "sources": [
+        {
+          "label": "Houbraken et al. · Revisión de la cepa de Fleming",
+          "url": "https://link.springer.com/article/10.5598/imafungus.2011.02.01.12"
+        },
+        {
+          "label": "Houbraken et al. · Especies de la sección Chrysogena",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3589797/"
+        }
+      ],
+      "image": "assets/cards/08.webp",
+      "thumbnail": "assets/cards/08-thumb.webp",
+      "sourcePdf": "0_Frontal-3(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "La cepa que utilizó Alexander Fleming fue identificada durante mucho tiempo como P. chrysogenum, pero una revisión de 2011 la situó en P. rubens. Distinguir ambas especies ayuda a contar con precisión la historia de la penicilina.",
+      "curiositySources": [
+        {
+          "label": "Houbraken et al. · Revisión de la cepa de Fleming",
+          "url": "https://link.springer.com/article/10.5598/imafungus.2011.02.01.12"
+        }
+      ],
+      "photoCredit": {
+        "author": "Lo, Y.-C., Bruxaux, J., Rodríguez de la Vega, R. C., O’Donnell, S., Snirc, A., Coton, M., Le Piver, M., Le Prieur, S., Roueyre, D., Dupont, J., Houbraken, J., Debuchy, R., Ropars, J., Giraud, T., & Branca, A.",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Penicillium_chrysogenum.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "caption": "Cultivo de Penicillium chrysogenum en agar con extracto de malta; fotografía de Lo et al. (2023).",
+        "changes": "Redimensionada y convertida a WebP, sin modificar el contenido."
+      },
+      "photo": "assets/organisms/bc-08.webp",
+      "preview": "assets/cards/08-preview.webp",
+      "photoWidth": 251,
+      "photoHeight": 222
+    },
+    {
+      "id": "BC-09",
+      "number": 9,
+      "title": "La alfombra de la tundra",
+      "species": "Cladonia rangiferina",
+      "common": "Liquen de los renos",
+      "group": "fungus",
+      "subgroup": "Liquen",
+      "setting": "Suelos de ambientes fríos",
+      "role": "Simbiosis liquénica",
+      "description": "Cladonia rangiferina es un liquen ramificado de tonos claros que forma parte de comunidades de suelos fríos y abiertos.",
+      "connection": "Aunque algunos nombres comunes lo llaman «musgo», es un liquen, una asociación biológica dominada por un hongo.",
+      "sources": [
+        {
+          "label": "British Lichen Society",
+          "url": "https://britishlichensociety.org.uk/resources/species-accounts/cladonia-rangiferina"
+        },
+        {
+          "label": "British Lichen Society · Cladonia rangiferina",
+          "url": "https://britishlichensociety.org.uk/resources/species-accounts/cladonia-rangiferina"
+        }
+      ],
+      "image": "assets/cards/09.webp",
+      "thumbnail": "assets/cards/09-thumb.webp",
+      "sourcePdf": "0_Frontal-3(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "Sus ramitas terminales suelen curvarse hacia una misma dirección. Esa forma, junto con su color gris blanquecino y su superficie algodonosa, ayuda a distinguirlo de otros líquenes de los renos.",
+      "curiositySources": [
+        {
+          "label": "British Lichen Society · Cladonia rangiferina",
+          "url": "https://britishlichensociety.org.uk/resources/species-accounts/cladonia-rangiferina"
+        }
+      ],
+      "photoCredit": {
+        "author": "Ed Uebel",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cladonia_rangiferina-1.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "caption": "Ejemplar de herbario de Cladonia rangiferina; recolectado por Dave Lee e identificado por Arnold Norden.",
+        "changes": "Redimensionada y convertida a WebP, sin modificar el contenido."
+      },
+      "photo": "assets/organisms/bc-09.webp",
+      "preview": "assets/cards/09-preview.webp",
+      "photoWidth": 720,
+      "photoHeight": 481
+    },
+    {
+      "id": "BC-10",
+      "number": 10,
+      "title": "El sensor del aire",
+      "species": "Usnea barbata",
+      "common": "Barba de viejo",
+      "group": "fungus",
+      "subgroup": "Liquen",
+      "setting": "Sobre árboles",
+      "role": "Simbiosis liquénica",
+      "description": "Usnea barbata es un liquen filamentoso y colgante que crece sobre la corteza y las ramas de árboles. Se encuentra en bosques húmedos con lluvias o nieblas frecuentes; su aspecto variable puede dificultar la identificación.",
+      "connection": "Como otros líquenes, reúne socios biológicos con funciones diferentes. Puede absorber recursos directamente de su entorno.",
+      "sources": [
+        {
+          "label": "British Lichen Society",
+          "url": "https://britishlichensociety.org.uk/resources/species-accounts/usnea-barbata"
+        },
+        {
+          "label": "Estudio de fotobiología",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12430271/"
+        },
+        {
+          "label": "Universidad de Trieste · ITALIC, Usnea barbata",
+          "url": "https://italic.units.it/index.php?num=2423&procedure=taxonpage"
+        }
+      ],
+      "image": "assets/cards/10.webp",
+      "thumbnail": "assets/cards/10-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 2,
+      "curiosity": "Lo que parece una barba está organizado en capas: corteza, médula y un cordón central. En su interior conviven el hongo y algas verdes que realizan fotosíntesis.",
+      "curiositySources": [
+        {
+          "label": "Universidad de Trieste · ITALIC, Usnea barbata",
+          "url": "https://italic.units.it/index.php?num=2423&procedure=taxonpage"
+        }
+      ],
+      "photoCredit": {
+        "author": "Christian Grenier",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Usnea_barbata_112027480.jpg",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "caption": "Liquen Usnea barbata fotografiado por Christian Grenier.",
+        "changes": "Redimensionada y convertida a WebP, sin modificar el contenido."
+      },
+      "photo": "assets/organisms/bc-10.webp",
+      "preview": "assets/cards/10-preview.webp",
+      "photoWidth": 800,
+      "photoHeight": 600
+    },
+    {
+      "id": "BC-11",
+      "number": 11,
+      "title": "La llama de los bosques",
+      "species": "Lapageria rosea",
+      "common": "Copihue",
+      "group": "plant",
+      "subgroup": "Trepadora",
+      "setting": "Bosques de Chile",
+      "role": "Productor primario",
+      "description": "El copihue es una planta trepadora nativa de Chile central y austral. Sus flores colgantes tienen una forma acampanada característica.",
+      "connection": "Al trepar utiliza otras estructuras como soporte para alcanzar la luz. Esa estrategia no implica que sea una planta parásita.",
+      "sources": [
+        {
+          "label": "Royal Botanic Gardens, Kew",
+          "url": "https://powo.science.kew.org/taxon/537288-1"
+        }
+      ],
+      "image": "assets/cards/11.webp",
+      "thumbnail": "assets/cards/11-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "Sus flores reciben visitas del picaflor chico y del abejorro chileno: ambos pueden transportar su polen. Un estudio en bosques fragmentados encontró menos visitas de estos polinizadores que en bosque continuo.",
+      "curiositySources": [
+        {
+          "label": "Valdivia et al. · Polinización del copihue",
+          "url": "https://researchers.unab.cl/en/publications/depressed-pollination-of-lapageria-rosea-ruiz-et-pav-philesiaceae/"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Lapageria rosea. Fotografía real; tamaño optimizado para la web.",
+        "author": "3BRBS",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Lapageria_rosea_in_Temuco_01.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-11.webp",
+      "preview": "assets/cards/11-preview.webp",
+      "photoWidth": 825,
+      "photoHeight": 1100
+    },
+    {
+      "id": "BC-12",
+      "number": 12,
+      "title": "El paraguas del pantano",
+      "species": "Gunnera tinctoria",
+      "common": "Nalca",
+      "group": "plant",
+      "subgroup": "Herbácea",
+      "setting": "Ambientes húmedos",
+      "role": "Productor primario",
+      "description": "La nalca es una planta herbácea de grandes hojas, nativa de Chile. Crece en ambientes húmedos.",
+      "connection": "El gran tamaño de una hoja no convierte a una planta en árbol: su forma de crecimiento sigue siendo herbácea.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/7457"
+        }
+      ],
+      "image": "assets/cards/12.webp",
+      "thumbnail": "assets/cards/12-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "La nalca aloja cianobacterias del género Nostoc dentro de sus tejidos. Esta asociación permite incorporar nitrógeno del aire, una alianza poco común entre plantas con flores y microorganismos.",
+      "curiositySources": [
+        {
+          "label": "ASM · Genoma de un simbionte de Gunnera tinctoria",
+          "url": "https://journals.asm.org/doi/10.1128/MRA.00563-23"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Gunnera tinctoria. Fotografía real; tamaño optimizado para la web.",
+        "author": "Draceane",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Gunnera_tinctoria,_Quinchao,_2019_(04).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-12.webp",
+      "preview": "assets/cards/12-preview.webp",
+      "photoWidth": 960,
+      "photoHeight": 640
+    },
+    {
+      "id": "BC-13",
+      "number": 13,
+      "title": "El dulce del sotobosque",
+      "species": "Ugni molinae",
+      "common": "Murta o murtilla",
+      "group": "plant",
+      "subgroup": "Arbusto",
+      "setting": "Bosques y matorrales del sur",
+      "role": "Productor primario",
+      "description": "La murta o murtilla es un arbusto de los bosques y matorrales del sur de Chile. Es conocida por sus frutos aromáticos.",
+      "connection": "Como otras plantas con flores, conecta producción primaria, polinización y dispersión de semillas.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/8471"
+        }
+      ],
+      "image": "assets/cards/13.webp",
+      "thumbnail": "assets/cards/13-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "La murtilla también se cultiva: a partir del trabajo de selección se desarrollaron variedades como Red Pearl INIA y South Pearl INIA. Su aroma y sus frutos han impulsado su domesticación.",
+      "curiositySources": [
+        {
+          "label": "FIA · Manual técnico de producción de murtilla",
+          "url": "https://opia.fia.cl/601/w3-article-81742.html"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Ugni molinae. Fotografía real; tamaño optimizado para la web.",
+        "author": "No machine-readable author provided. MPF assumed (based on copyright claims).",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Ugni_molinae.jpg",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-13.webp",
+      "preview": "assets/cards/13-preview.webp",
+      "photoWidth": 960,
+      "photoHeight": 720
+    },
+    {
+      "id": "BC-14",
+      "number": 14,
+      "title": "La joya antioxidante",
+      "species": "Aristotelia chilensis",
+      "common": "Maqui",
+      "group": "plant",
+      "subgroup": "Árbol o arbusto",
+      "setting": "Bosques y matorrales",
+      "role": "Productor primario",
+      "description": "El maqui es una planta leñosa nativa del sur de Sudamérica. Produce pequeños frutos de color oscuro.",
+      "connection": "Sus frutos forman parte de las relaciones entre las plantas y los animales que los consumen.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/14013"
+        }
+      ],
+      "image": "assets/cards/14.webp",
+      "thumbnail": "assets/cards/14-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "El color de sus frutos cambia durante la maduración junto con su contenido de antocianinas. Estos pigmentos son uno de los rasgos que se investigan al estudiar la química del maqui.",
+      "curiositySources": [
+        {
+          "label": "INIA · Polifenoles y maduración del maqui",
+          "url": "https://revistaschilenas.uchile.cl/handle/2250/55746?show=full"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Aristotelia chilensis. Fotografía real; tamaño optimizado para la web.",
+        "author": "Dick Culbert from Gibsons, B.C., Canada",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Aristotelia_chilensis,_fruit_(8661889792).jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-14.webp",
+      "preview": "assets/cards/14-preview.webp",
+      "photoWidth": 446,
+      "photoHeight": 640
+    },
+    {
+      "id": "BC-15",
+      "number": 15,
+      "title": "La espina de la estepa",
+      "species": "Berberis microphylla",
+      "common": "Calafate",
+      "group": "plant",
+      "subgroup": "Arbusto",
+      "setting": "Matorrales patagónicos",
+      "role": "Productor primario",
+      "description": "El calafate es un arbusto espinoso de la Patagonia. Produce frutos oscuros y participa en comunidades de matorral.",
+      "connection": "Sus espinas y sus frutos representan funciones diferentes: defensa y reproducción de la planta.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/15634"
+        }
+      ],
+      "image": "assets/cards/15.webp",
+      "thumbnail": "assets/cards/15-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "Sus pequeñas hojas suelen agruparse sobre ramas protegidas por espinas de tres puntas. Antes de sus bayas oscuras aparecen flores amarillas: una misma planta cambia mucho de aspecto durante el año.",
+      "curiositySources": [
+        {
+          "label": "Parques Nacionales Argentina · Calafate",
+          "url": "https://sib.gob.ar/especies/berberis-microphylla"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Berberis microphylla. Fotografía real; tamaño optimizado para la web.",
+        "author": "No machine-readable author provided. Heretiq assumed (based on copyright claims).",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Calafate-Berberis_buxifolia.jpg",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-15.webp",
+      "preview": "assets/cards/15-preview.webp",
+      "photoWidth": 825,
+      "photoHeight": 1100
+    },
+    {
+      "id": "BC-16",
+      "number": 16,
+      "title": "El astuto del cerro",
+      "species": "Lycalopex culpaeus",
+      "common": "Zorro culpeo",
+      "group": "animal",
+      "subgroup": "Mamífero",
+      "setting": "Ambientes andinos y patagónicos",
+      "role": "Dieta variada",
+      "description": "El zorro culpeo ocupa ambientes diversos de Sudamérica. Su dieta cambia con la disponibilidad local de alimento.",
+      "connection": "Puede consumir pequeños vertebrados, invertebrados y frutos. Esa flexibilidad le permite vivir en paisajes muy distintos.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4518"
+        }
+      ],
+      "image": "assets/cards/16.webp",
+      "thumbnail": "assets/cards/16-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 2,
+      "photoCredit": {
+        "caption": "Zorro culpeo (Lycalopex culpaeus). Fotografía de observación en iNaturalist.",
+        "author": "Luciano Massa",
+        "sourcePage": "https://www.inaturalist.org/observations/130873214",
+        "license": "CC-BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/222629422/large.jpeg",
+        "changes": "Redimensionada y convertida a WebP, sin alterar el contenido."
+      },
+      "curiosity": "Además de cazar, el culpeo come frutos: al transportar y eliminar sus semillas puede contribuir a su dispersión.",
+      "curiositySources": [
+        {
+          "label": "Animal Diversity Web · Universidad de Michigan",
+          "url": "https://animaldiversity.org/accounts/Lycalopex_culpaeus/"
+        }
+      ],
+      "photo": "assets/organisms/bc-16.webp",
+      "preview": "assets/cards/16-preview.webp",
+      "photoWidth": 1024,
+      "photoHeight": 683
+    },
+    {
+      "id": "BC-17",
+      "number": 17,
+      "title": "El navegante del hielo",
+      "species": "Spheniscus magellanicus",
+      "common": "Pingüino de Magallanes",
+      "group": "animal",
+      "subgroup": "Ave marina",
+      "setting": "Costas del sur de Sudamérica",
+      "role": "Depredación marina",
+      "description": "El pingüino de Magallanes es un ave marina del sur de Sudamérica. Nada para alimentarse y se reproduce en colonias costeras.",
+      "connection": "Aunque no vuela en el aire, sus extremidades anteriores están adaptadas para propulsarse bajo el agua.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/12351"
+        }
+      ],
+      "image": "assets/cards/17.webp",
+      "thumbnail": "assets/cards/17-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 1,
+      "photoCredit": {
+        "caption": "Pingüino de Magallanes (Spheniscus magellanicus). Fotografía de observación en iNaturalist.",
+        "author": "Charlotte Kirchner",
+        "sourcePage": "https://www.inaturalist.org/observations/328241378",
+        "license": "CC-BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/594752600/large.jpg",
+        "changes": "Redimensionada y convertida a WebP, sin alterar el contenido."
+      },
+      "curiosity": "Puede excavar madrigueras para nidificar. En Punta Tombo se ha estudiado cómo la textura y la pendiente del suelo influyen en dónde las construye.",
+      "curiositySources": [
+        {
+          "label": "Stokes y Boersma (1991) · The Auk",
+          "url": "https://academic.oup.com/auk/article-abstract/108/4/923/5172643"
+        }
+      ],
+      "photo": "assets/organisms/bc-17.webp",
+      "preview": "assets/cards/17-preview.webp",
+      "photoWidth": 1024,
+      "photoHeight": 683
+    },
+    {
+      "id": "BC-18",
+      "number": 18,
+      "title": "El acróbata del oleaje",
+      "species": "Lontra felina",
+      "common": "Chungungo",
+      "group": "animal",
+      "subgroup": "Mamífero marino",
+      "setting": "Costas rocosas del Pacífico",
+      "role": "Depredación",
+      "description": "El chungungo es una pequeña nutria marina de la costa del Pacífico sudamericano. Utiliza el litoral rocoso para buscar alimento y refugio.",
+      "connection": "Su vida conecta el ambiente terrestre costero con el mar. Entre sus presas se encuentran crustáceos, moluscos y peces.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4516"
+        }
+      ],
+      "image": "assets/cards/18.webp",
+      "thumbnail": "assets/cards/18-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 1,
+      "photoCredit": {
+        "caption": "Chungungo (Lontra felina). Fotografía de observación en iNaturalist.",
+        "author": "nleiva",
+        "sourcePage": "https://www.inaturalist.org/observations/238871060",
+        "license": "CC-BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/425336423/large.jpeg",
+        "changes": "Redimensionada y convertida a WebP, sin alterar el contenido."
+      },
+      "curiosity": "Es la especie más pequeña del género Lontra. Busca alimento en costas rocosas sometidas a oleaje fuerte, entre peces, moluscos y crustáceos.",
+      "curiositySources": [
+        {
+          "label": "Animal Diversity Web · Universidad de Michigan",
+          "url": "https://animaldiversity.org/accounts/Lontra_felina/"
+        }
+      ],
+      "photo": "assets/organisms/bc-18.webp",
+      "preview": "assets/cards/18-preview.webp",
+      "photoWidth": 1024,
+      "photoHeight": 678
+    },
+    {
+      "id": "BC-19",
+      "number": 19,
+      "title": "La sombra del rincón",
+      "species": "Loxosceles laeta",
+      "common": "Araña de rincón",
+      "group": "animal",
+      "subgroup": "Arácnido",
+      "setting": "Refugios oscuros y secos",
+      "role": "Depredación de artrópodos",
+      "description": "La araña de rincón es un arácnido de hábitos discretos que utiliza refugios oscuros y secos. Captura pequeños artrópodos.",
+      "connection": "Las arañas tienen ocho patas y pertenecen a un grupo diferente del de los insectos. Su mordedura puede tener importancia médica.",
+      "sources": [
+        {
+          "label": "Pontificia Universidad Católica de Chile",
+          "url": "https://fonoaudiologia.uc.cl/publicacion/la-arana-del-rincon-loxosceles-laeta/"
+        }
+      ],
+      "image": "assets/cards/19.webp",
+      "thumbnail": "assets/cards/19-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 1,
+      "photoCredit": {
+        "caption": "Araña de rincón (Loxosceles laeta). Fotografía de observación en iNaturalist.",
+        "author": "Valentín Alfano",
+        "sourcePage": "https://www.inaturalist.org/observations/143791196",
+        "license": "CC-BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/246666459/large.jpg",
+        "changes": "Redimensionada y convertida a WebP, sin alterar el contenido."
+      },
+      "curiosity": "Tiene seis ojos organizados en tres pares; muchas otras arañas tienen ocho. Es un rasgo que utilizan los especialistas para reconocerla.",
+      "curiositySources": [
+        {
+          "label": "Pontificia Universidad Católica de Chile",
+          "url": "https://kinesiologia.uc.cl/publicacion/la-arana-del-rincon-loxosceles-laeta/"
+        }
+      ],
+      "photo": "assets/organisms/bc-19.webp",
+      "preview": "assets/cards/19-preview.webp",
+      "photoWidth": 750,
+      "photoHeight": 1000
+    },
+    {
+      "id": "BC-20",
+      "number": 20,
+      "title": "El titán de la madera",
+      "species": "Acanthinodera cumingii",
+      "common": "Madre de la culebra",
+      "group": "animal",
+      "subgroup": "Insecto",
+      "setting": "Ambientes de Chile central",
+      "role": "Larvas asociadas a madera",
+      "description": "Acanthinodera cumingii es un gran escarabajo nativo de Chile, conocido como madre de la culebra. Sus larvas se desarrollan asociadas a la madera.",
+      "connection": "Su nombre común no implica ninguna relación de parentesco con las serpientes: pertenece a los insectos.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/19187"
+        }
+      ],
+      "image": "assets/cards/20.webp",
+      "thumbnail": "assets/cards/20-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 1,
+      "photoCredit": {
+        "caption": "Larva de Acanthinodera cumingii (madre de la culebra). Fotografía de observación en iNaturalist.",
+        "author": "Cristian Riquelme",
+        "sourcePage": "https://www.inaturalist.org/observations/10384711",
+        "license": "CC-BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14413618/large.jpg",
+        "changes": "Redimensionada y convertida a WebP, sin alterar el contenido."
+      },
+      "curiosity": "Se ha registrado y analizado un sonido de alarma producido por un macho al ser perturbado: este escarabajo también puede comunicarse mediante estridulación.",
+      "curiositySources": [
+        {
+          "label": "González-Véliz y colaboradores (2022) · Gayana",
+          "url": "https://www.scielo.cl/scielo.php?pid=S0717-65382022000200054&script=sci_arttext"
+        }
+      ],
+      "photo": "assets/organisms/bc-20.webp",
+      "preview": "assets/cards/20-preview.webp",
+      "photoWidth": 1024,
+      "photoHeight": 768
+    },
+    {
+      "id": "BC-21",
+      "number": 21,
+      "title": "El vector de la sombra",
+      "species": "Borrelia burgdorferi",
+      "common": "Borrelia",
+      "group": "bacteria",
+      "subgroup": "Espiroqueta",
+      "setting": "Garrapatas y vertebrados",
+      "role": "Ciclo con vector",
+      "description": "Borrelia burgdorferi es una bacteria relacionada con la enfermedad de Lyme. Su ciclo involucra garrapatas y hospedadores vertebrados.",
+      "connection": "La garrapata es el vector que puede transmitir la bacteria. El microorganismo y su vector son seres biológicos distintos.",
+      "sources": [
+        {
+          "label": "CDC · Enfermedad de Lyme",
+          "url": "https://www.cdc.gov/lyme/about/index.html"
+        }
+      ],
+      "image": "assets/cards/21.webp",
+      "thumbnail": "assets/cards/21-thumb.webp",
+      "sourcePdf": "0_Frontal-3(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "Sus flagelos están dentro de la envoltura celular. Además de impulsar su movimiento, ayudan a mantener la forma ondulada de esta espiroqueta.",
+      "curiositySources": [
+        {
+          "label": "PNAS · Flagelos y forma celular",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC27121/"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Micrografía electrónica de barrido de Borrelia burgdorferi procedente de un cultivo puro; colores añadidos digitalmente.",
+        "author": "CDC/ Claudia Molins",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Lyme_disease_parasite_Borrelia_burgdorferi.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-21.webp",
+      "preview": "assets/cards/21-preview.webp",
+      "photoWidth": 700,
+      "photoHeight": 475
+    },
+    {
+      "id": "BC-22",
+      "number": 22,
+      "title": "El moco de la roca",
+      "species": "Nostoc commune",
+      "common": "Nostoc",
+      "group": "bacteria",
+      "subgroup": "Cianobacteria",
+      "setting": "Superficies terrestres",
+      "role": "Fotosíntesis",
+      "description": "Nostoc commune es una cianobacteria que forma colonias rodeadas de una matriz gelatinosa. Realiza fotosíntesis y puede vivir en superficies terrestres.",
+      "connection": "Sus polisacáridos extracelulares ayudan a tolerar la desecación. La actividad fotosintética puede recuperarse después de rehidratarse.",
+      "sources": [
+        {
+          "label": "Estudio · Applied and Environmental Microbiology",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1287664/"
+        }
+      ],
+      "image": "assets/cards/22.webp",
+      "thumbnail": "assets/cards/22-thumb.webp",
+      "sourcePdf": "0_Frontal-3(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "La envoltura gelatinosa de sus colonias contribuye a protegerlas cuando se secan. Tras rehidratarse, pueden recuperar su actividad fotosintética.",
+      "curiositySources": [
+        {
+          "label": "Applied and Environmental Microbiology · Desecación",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1287664/"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Colonias gelatinosas de Nostoc commune sobre el suelo, fotografiadas en Cradley, Reino Unido.",
+        "author": "gailhampshire from Cradley, Malvern, U.K",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Nostoc_commune_is_a_species_of_cyanobacterium_in_the_family_Nostocaceae_-_Flickr_-_gailhampshire.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-22.webp",
+      "preview": "assets/cards/22-preview.webp",
+      "photoWidth": 1100,
+      "photoHeight": 869
+    },
+    {
+      "id": "BC-23",
+      "number": 23,
+      "title": "El oportunista dorado",
+      "species": "Staphylococcus aureus",
+      "common": "Estafilococo dorado",
+      "group": "bacteria",
+      "subgroup": "Coco",
+      "setting": "Piel y nariz humanas",
+      "role": "Colonización o infección",
+      "description": "Staphylococcus aureus puede vivir en la piel y en la nariz sin causar enfermedad. En otras circunstancias puede provocar infecciones.",
+      "connection": "Colonización e infección son situaciones distintas. La resistencia a antibióticos depende de la cepa; no todos los estafilococos dorados son MRSA.",
+      "sources": [
+        {
+          "label": "CDC · Staphylococcus aureus",
+          "url": "https://www.cdc.gov/staphylococcus-aureus/about/"
+        }
+      ],
+      "image": "assets/cards/23.webp",
+      "thumbnail": "assets/cards/23-thumb.webp",
+      "sourcePdf": "0_Frontal-3(2).pdf",
+      "sourcePage": 1,
+      "photo": "assets/organisms/bc-23.webp",
+      "photoCredit": {
+        "author": "NIAID / Frank DeLeo",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Staphylococcus_aureus_Bacteria_(5148710483).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Staphylococcus_aureus_Bacteria_%285148710483%29.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+        "caption": "Micrografía electrónica coloreada de S. aureus; colores añadidos. Encuadre adaptado.",
+        "changes": "Redimensionada y convertida a WebP; encuadre ajustado en la página."
+      },
+      "curiosity": "El tono dorado de muchas de sus colonias se debe a un pigmento llamado estafiloxantina, que también ayuda a proteger a la bacteria frente al estrés oxidativo.",
+      "curiositySources": [
+        {
+          "label": "Journal of Bacteriology · Estafiloxantina",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1539600/"
+        }
+      ],
+      "preview": "assets/cards/23-preview.webp",
+      "photoWidth": 745,
+      "photoHeight": 776
+    },
+    {
+      "id": "BC-24",
+      "number": 24,
+      "title": "El dardo del fango",
+      "species": "Leptospira interrogans",
+      "common": "Leptospira",
+      "group": "bacteria",
+      "subgroup": "Espiroqueta",
+      "setting": "Animales y ambientes contaminados",
+      "role": "Interacción con hospedadores",
+      "description": "Leptospira interrogans pertenece a un grupo de bacterias asociadas a la leptospirosis. La interacción entre animales, agua y suelo forma parte de su ecología.",
+      "connection": "El contacto entre fauna, agua y suelo ayuda a entender cómo un microorganismo puede circular entre distintos ambientes.",
+      "sources": [
+        {
+          "label": "CDC · Leptospirosis",
+          "url": "https://www.cdc.gov/leptospirosis/about/index.html"
+        }
+      ],
+      "image": "assets/cards/24.webp",
+      "thumbnail": "assets/cards/24-thumb.webp",
+      "sourcePdf": "0_Frontal-3(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "Sus extremos curvados pueden recordar un signo de interrogación: de ahí el nombre interrogans. Sus flagelos internos participan tanto en esa forma como en su movimiento.",
+      "curiositySources": [
+        {
+          "label": "Molecular Microbiology · Forma y motilidad",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4979076/"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Micrografía electrónica de Leptospira interrogans, cepa RGA. Se aprecian su cuerpo helicoidal y extremos curvados.",
+        "author": "Obtained from the CDC Public Health Image Library.\n\nImage credit: CDC/NCID/HIP/Janice Carr (PHIL #1220).",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Leptospira_interrogans_strain_RGA_01.png",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-24.webp",
+      "preview": "assets/cards/24-preview.webp",
+      "photoWidth": 1013,
+      "photoHeight": 671
+    },
+    {
+      "id": "BC-25",
+      "number": 25,
+      "title": "El guardián láctico",
+      "species": "Lactobacillus acidophilus",
+      "common": "Lactobacilo acidófilo",
+      "group": "bacteria",
+      "subgroup": "Bacteria láctica",
+      "setting": "Microbiota y cultivos fermentativos",
+      "role": "Producción de lactato",
+      "description": "Lactobacillus acidophilus es una bacteria láctica: su metabolismo puede producir lactato a partir de carbohidratos.",
+      "connection": "Las propiedades de una cepa concreta no deben atribuirse automáticamente a todas las cepas de la especie.",
+      "sources": [
+        {
+          "label": "DSMZ · BacDive",
+          "url": "https://www.bacdive.dsmz.de/strain/6405"
+        }
+      ],
+      "image": "assets/cards/25.webp",
+      "thumbnail": "assets/cards/25-thumb.webp",
+      "sourcePdf": "0_Frontal-3(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "La cepa NCFM posee numerosos sistemas para captar y aprovechar distintos carbohidratos. Su genoma completo se publicó en 2005, lo que permitió estudiar esa diversidad metabólica.",
+      "curiositySources": [
+        {
+          "label": "PNAS · Genoma de L. acidophilus NCFM",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC554803/"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Micrografía electrónica de barrido de Lactobacillus acidophilus; la barra de escala original se conserva.",
+        "author": "Mogana Das Murtey and Patchamuthu Ramasamy",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Lactobacillus_acidophilus_SEM.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-25.webp",
+      "preview": "assets/cards/25-preview.webp",
+      "photoWidth": 1100,
+      "photoHeight": 729
+    },
+    {
+      "id": "BC-26",
+      "number": 26,
+      "title": "El tapiz del sustrato",
+      "species": "Xanthoria elegans",
+      "common": "Liquen naranja",
+      "group": "fungus",
+      "subgroup": "Liquen",
+      "setting": "Sustratos rocosos",
+      "role": "Simbiosis liquénica",
+      "description": "Este liquen naranja crece sobre superficies rocosas. Un liquen es una asociación en la que participan un hongo y organismos fotosintéticos.",
+      "connection": "La British Lichen Society lo registra como Rusavskia elegans, con Xanthoria elegans como sinónimo. Conservamos el nombre impreso en la carta.",
+      "sources": [
+        {
+          "label": "British Lichen Society",
+          "url": "https://britishlichensociety.org.uk/resources/species-accounts/rusavskia-elegans"
+        },
+        {
+          "label": "Agencia Espacial Europea · Expose-E",
+          "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Live_long_and_prosper_i_Xanthoria_elegans_i"
+        }
+      ],
+      "image": "assets/cards/26.webp",
+      "thumbnail": "assets/cards/26-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 2,
+      "curiosity": "Ejemplares de este liquen fueron enviados al exterior de la Estación Espacial Internacional durante 18 meses en el experimento Expose-E. Su resistencia a la desecación lo convierte en un organismo de interés para la astrobiología.",
+      "curiositySources": [
+        {
+          "label": "Agencia Espacial Europea · Expose-E",
+          "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Live_long_and_prosper_i_Xanthoria_elegans_i"
+        }
+      ],
+      "photoCredit": {
+        "author": "Tigerente",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Xanthoria_elegans.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "caption": "Xanthoria elegans, también llamado Rusavskia elegans, sobre roca en el Tirol austríaco.",
+        "changes": "Redimensionada y convertida a WebP, sin modificar el contenido."
+      },
+      "photo": "assets/organisms/bc-26.webp",
+      "preview": "assets/cards/26-preview.webp",
+      "photoWidth": 960,
+      "photoHeight": 720
+    },
+    {
+      "id": "BC-27",
+      "number": 27,
+      "title": "El escudo medicinal",
+      "species": "Trametes versicolor",
+      "common": "Cola de pavo",
+      "group": "fungus",
+      "subgroup": "Hongo de la madera",
+      "setting": "Madera muerta",
+      "role": "Descomposición",
+      "description": "Trametes versicolor crece sobre madera y forma cuerpos fructíferos con bandas de distintos colores. Es conocido como cola de pavo.",
+      "connection": "Sus enzimas permiten degradar componentes de la madera. Así contribuye al reciclaje de materia en los ecosistemas.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/5319"
+        },
+        {
+          "label": "Microbial Cell Factories · Producción de lacasas",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10484868/"
+        }
+      ],
+      "image": "assets/cards/27.webp",
+      "thumbnail": "assets/cards/27-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 2,
+      "curiosity": "Produce lacasas, enzimas que oxidan distintos compuestos. Se investigan tanto para transformar materiales de origen vegetal como para procesos de biorremediación; su actividad depende de las condiciones de cultivo.",
+      "curiositySources": [
+        {
+          "label": "Microbial Cell Factories · Producción de lacasas",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10484868/"
+        }
+      ],
+      "photoCredit": {
+        "author": "Hans Hillewaert",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Trametes_versicolor.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption": "Cuerpos fructíferos de Trametes versicolor en Tillegem, Bélgica.",
+        "changes": "Redimensionada y convertida a WebP, sin modificar el contenido."
+      },
+      "photo": "assets/organisms/bc-27.webp",
+      "preview": "assets/cards/27-preview.webp",
+      "photoWidth": 960,
+      "photoHeight": 720
+    },
+    {
+      "id": "BC-28",
+      "number": 28,
+      "title": "El destello púrpura",
+      "species": "Cortinarius magellanicus",
+      "common": "Cortinario magallánico",
+      "group": "fungus",
+      "subgroup": "Hongo con seta",
+      "setting": "Bosques australes",
+      "role": "Simbiosis micorrícica",
+      "description": "Cortinarius magellanicus forma pequeñas setas violáceas en bosques australes de Nothofagus. Vive asociado a sus raíces mediante ectomicorrizas, y sus cuerpos fructíferos aparecen principalmente durante otoño e invierno.",
+      "connection": "Las asociaciones entre hongos y raíces son parte de las conexiones subterráneas de estos bosques.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/5223"
+        },
+        {
+          "label": "SIMBIO · Cortinarius magellanicus",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/5223"
+        }
+      ],
+      "image": "assets/cards/28.webp",
+      "thumbnail": "assets/cards/28-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 2,
+      "curiosity": "Su color lila cambia con la madurez: el sombrero comienza a adquirir tonos pardos desde el centro. Además del color, destaca su superficie muy pegajosa, especialmente con humedad.",
+      "curiositySources": [
+        {
+          "label": "SIMBIO · Cortinarius magellanicus",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/5223"
+        }
+      ],
+      "photoCredit": {
+        "author": "Natalia Reyes Escobar",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cortinarius_magellanicus_Parque_Nacional_Puyehue_07.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption": "Cortinarius magellanicus en el Parque Nacional Puyehue, Chile.",
+        "changes": "Redimensionada y convertida a WebP, sin modificar el contenido."
+      },
+      "photo": "assets/organisms/bc-28.webp",
+      "preview": "assets/cards/28-preview.webp",
+      "photoWidth": 960,
+      "photoHeight": 640
+    },
+    {
+      "id": "BC-29",
+      "number": 29,
+      "title": "El colonizador sutil",
+      "species": "Agaricus silvaticus",
+      "common": "Champiñón del bosque",
+      "group": "fungus",
+      "subgroup": "Hongo con seta",
+      "setting": "Suelo de bosques",
+      "role": "Descomposición",
+      "description": "Este hongo forma setas en ambientes boscosos. Su sombrero muestra escamas pardas y sus tejidos pueden enrojecer al dañarse.",
+      "connection": "En las fuentes taxonómicas también aparece como Agaricus sylvaticus. La carta conserva la grafía Agaricus silvaticus.",
+      "sources": [
+        {
+          "label": "Sociedad Micológica Extremeña · Agaricus silvaticus",
+          "url": "https://micoex.org/2016/09/17/agaricus-silvaticus/"
+        }
+      ],
+      "image": "assets/cards/29.webp",
+      "thumbnail": "assets/cards/29-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 2,
+      "curiosity": "Su carne blanca puede volverse de un rojo vinoso al cortarse o dañarse. El cambio de color, las escamas del sombrero y el hábitat son rasgos que se estudian conjuntamente para identificarlo.",
+      "curiositySources": [
+        {
+          "label": "Sociedad Micológica Extremeña · Agaricus silvaticus",
+          "url": "https://micoex.org/2016/09/17/agaricus-silvaticus/"
+        }
+      ],
+      "photoCredit": {
+        "author": "Dick Culbert from Gibsons, B.C., Canada",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Agaricus_sylvaticus_(24030027869).jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "caption": "Agaricus sylvaticus, grafía alternativa del nombre impreso Agaricus silvaticus; Columbia Británica, Canadá.",
+        "changes": "Redimensionada y convertida a WebP, sin modificar el contenido."
+      },
+      "photo": "assets/organisms/bc-29.webp",
+      "preview": "assets/cards/29-preview.webp",
+      "photoWidth": 960,
+      "photoHeight": 787
+    },
+    {
+      "id": "BC-30",
+      "number": 30,
+      "title": "El gigante del sur",
+      "species": "Butyriboletus loyo",
+      "common": "Loyo",
+      "group": "fungus",
+      "subgroup": "Hongo con seta",
+      "setting": "Bosque templado austral",
+      "role": "Simbiosis micorrícica",
+      "description": "El loyo es un hongo de los bosques templados del sur de Sudamérica. Sus cuerpos fructíferos pertenecen al grupo de los boletos.",
+      "connection": "Su relación con las raíces de árboles ilustra la importancia de las micorrizas en el bosque.",
+      "sources": [
+        {
+          "label": "Universidad de Magallanes · SIB Aysén",
+          "url": "https://kataix.umag.cl/sib-aysen/catalog/taxon/butyriboletus_loyo/summary/"
+        },
+        {
+          "label": "Fundación Fungi · Investigación y conservación del loyo",
+          "url": "https://www.ffungi.org/es/blog/butyriboletus-loyo-surviving-extinction"
+        }
+      ],
+      "image": "assets/cards/30.webp",
+      "thumbnail": "assets/cards/30-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 2,
+      "curiosity": "¡Su sombrero puede alcanzar unos 30 centímetros de diámetro! Este gran hongo del sur de Chile también ha impulsado proyectos de conservación y manejo junto con comunidades locales.",
+      "curiositySources": [
+        {
+          "label": "Fundación Fungi · Investigación y conservación del loyo",
+          "url": "https://www.ffungi.org/es/blog/butyriboletus-loyo-surviving-extinction"
+        }
+      ],
+      "photoCredit": {
+        "author": "Paul elton",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Boletus_loyo.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Loyo (Butyriboletus loyo, antes Boletus loyo) fotografiado en Colegual, Chile.",
+        "changes": "Redimensionada y convertida a WebP, sin modificar el contenido."
+      },
+      "photo": "assets/organisms/bc-30.webp",
+      "preview": "assets/cards/30-preview.webp",
+      "photoWidth": 1200,
+      "photoHeight": 676
+    },
+    {
+      "id": "BC-31",
+      "number": 31,
+      "title": "El protector del valle",
+      "species": "Cryptocarya alba",
+      "common": "Peumo",
+      "group": "plant",
+      "subgroup": "Árbol",
+      "setting": "Bosque esclerófilo",
+      "role": "Productor primario",
+      "description": "El peumo es un árbol siempreverde característico del bosque esclerófilo chileno. Sus frutos maduros presentan una coloración rojiza.",
+      "connection": "Forma parte de las comunidades de árboles que sostienen los hábitats del centro de Chile.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/10624"
+        }
+      ],
+      "image": "assets/cards/31.webp",
+      "thumbnail": "assets/cards/31-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "Las aves que comen la pulpa del peumo pueden favorecer la germinación de sus semillas. Así, una interacción que comienza como alimento también puede ayudar a renovar el bosque.",
+      "curiositySources": [
+        {
+          "label": "Bustamante et al. · Germinación de Cryptocarya alba",
+          "url": "https://rchn.biologiachile.cl/pdfs/1996/3/Bustamante_et_al_1996.pdf"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Cryptocarya alba. Fotografía real; tamaño optimizado para la web.",
+        "author": "Mar del Sur",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cryptocarya_alba_(peumo)_Parque_Nacional_La_Campana.JPG",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-31.webp",
+      "preview": "assets/cards/31-preview.webp",
+      "photoWidth": 731,
+      "photoHeight": 1100
+    },
+    {
+      "id": "BC-32",
+      "number": 32,
+      "title": "El árbol sagrado",
+      "species": "Drimys winteri",
+      "common": "Canelo",
+      "group": "plant",
+      "subgroup": "Árbol",
+      "setting": "Bosques húmedos del sur",
+      "role": "Productor primario",
+      "description": "El canelo es un árbol siempreverde de los bosques de Chile y Argentina. Se encuentra con frecuencia en ambientes húmedos.",
+      "connection": "Además de su papel ecológico, posee una profunda importancia cultural para el pueblo mapuche.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/10175"
+        }
+      ],
+      "image": "assets/cards/32.webp",
+      "thumbnail": "assets/cards/32-thumb.webp",
+      "sourcePdf": "0_Frontal-4(2).pdf",
+      "sourcePage": 1,
+      "curiosity": "Aunque es una planta con flores, el canelo carece de los vasos conductores de agua habituales en muchas angiospermas. Su madera transporta el agua mediante otras células alargadas, las traqueidas.",
+      "curiositySources": [
+        {
+          "label": "Zhang et al. · Anatomía del xilema sin vasos",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28667823/"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Drimys winteri. Fotografía real; tamaño optimizado para la web.",
+        "author": "Eric Hunt",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Drimys_winteri.jpg",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-32.webp",
+      "preview": "assets/cards/32-preview.webp",
+      "photoWidth": 960,
+      "photoHeight": 643
+    },
+    {
+      "id": "BC-33",
+      "number": 33,
+      "title": "El escudo del bosque",
+      "species": "Quillaja saponaria",
+      "common": "Quillay",
+      "group": "plant",
+      "subgroup": "Árbol",
+      "setting": "Bosque esclerófilo",
+      "role": "Productor primario",
+      "description": "El quillay es un árbol del bosque esclerófilo chileno. Sus hojas persistentes le permiten mantener su actividad en un paisaje de marcada estacionalidad.",
+      "connection": "Es parte de las comunidades vegetales de Chile central. Sus tejidos contienen saponinas, compuestos de interés biotecnológico.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/7498"
+        }
+      ],
+      "image": "assets/cards/33.webp",
+      "thumbnail": "assets/cards/33-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 2,
+      "curiosity": "El quillay produce QS-21, una saponina utilizada como componente de adyuvantes de vacunas. En 2024 se describió cómo fabricar esta molécula mediante levaduras modificadas, reproduciendo su ruta biosintética.",
+      "curiositySources": [
+        {
+          "label": "Nature · Biosíntesis de QS-21 en levadura",
+          "url": "https://www.nature.com/articles/s41586-024-07345-9"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Quillaja saponaria. Fotografía real; tamaño optimizado para la web.",
+        "author": "CARLOS SALGADO MELLA",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Quillay_arbol_nativo_Chileno_en_flor_-_panoramio.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-33.webp",
+      "preview": "assets/cards/33-preview.webp",
+      "photoWidth": 960,
+      "photoHeight": 720
+    },
+    {
+      "id": "BC-34",
+      "number": 34,
+      "title": "El centinela de la roca",
+      "species": "Araucaria araucana",
+      "common": "Araucaria o pewén",
+      "group": "plant",
+      "subgroup": "Conífera",
+      "setting": "Bosques de Chile y Argentina",
+      "role": "Productor primario",
+      "description": "La araucaria o pewén es una conífera del sur de Sudamérica. En Chile forma bosques en sectores andinos y en la cordillera de Nahuelbuta.",
+      "connection": "Sus semillas, conocidas como piñones, son un recurso alimentario y tienen gran importancia cultural para el pueblo pewenche.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/6545"
+        }
+      ],
+      "image": "assets/cards/34.webp",
+      "thumbnail": "assets/cards/34-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 2,
+      "curiosity": "Los piñones son sus semillas, por lo que también permiten formar nuevos árboles. Su consumo por animales y su recolección están conectados con la regeneración de los bosques de araucaria.",
+      "curiositySources": [
+        {
+          "label": "CONAF · Piñón y regeneración de araucaria",
+          "url": "https://investigacion.conaf.cl/documentos/documento.php?idDocumento=1073871"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Araucaria araucana. Fotografía real; tamaño optimizado para la web.",
+        "author": "scott.zona",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Araucaria_araucana_by_Scott_Zona_-_002.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-34.webp",
+      "preview": "assets/cards/34-preview.webp",
+      "photoWidth": 825,
+      "photoHeight": 1100
+    },
+    {
+      "id": "BC-35",
+      "number": 35,
+      "title": "El titán milenario",
+      "species": "Fitzroya cupressoides",
+      "common": "Alerce",
+      "group": "plant",
+      "subgroup": "Conífera",
+      "setting": "Bosque templado húmedo",
+      "role": "Productor primario",
+      "description": "El alerce es una conífera de los bosques templados húmedos del sur de Chile y Argentina. Destaca por su extraordinaria longevidad.",
+      "connection": "Sus bosques representan historias ecológicas de miles de años. Un árbol antiguo no se reemplaza en los tiempos de una generación humana.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/6535"
+        }
+      ],
+      "image": "assets/cards/35.webp",
+      "thumbnail": "assets/cards/35-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 2,
+      "curiosity": "Se han documentado alerces de más de 3.600 años. Su extraordinaria longevidad convierte a estos árboles en testigos de cambios del bosque que abarcan muchos siglos.",
+      "curiositySources": [
+        {
+          "label": "Museo de Historia Natural de Concepción · El alerce",
+          "url": "https://www.mhnconcepcion.gob.cl/noticias/el-alerce"
+        }
+      ],
+      "photoCredit": {
+        "caption": "Fitzroya cupressoides. Fotografía real; tamaño optimizado para la web.",
+        "author": "Haplochromis",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Alerce_Fitzroya_cupressoides.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Redimensionada y convertida a WebP."
+      },
+      "photo": "assets/organisms/bc-35.webp",
+      "preview": "assets/cards/35-preview.webp",
+      "photoWidth": 734,
+      "photoHeight": 1100
+    },
+    {
+      "id": "BC-36",
+      "number": 36,
+      "title": "El titán de la estepa",
+      "species": "Rhea pennata",
+      "common": "Ñandú de Darwin",
+      "group": "animal",
+      "subgroup": "Ave",
+      "setting": "Estepas y ambientes abiertos",
+      "role": "Alimentación principalmente vegetal",
+      "description": "El ñandú de Darwin es un ave sudamericana que se desplaza corriendo y no vuela. Habita paisajes abiertos, incluidas estepas patagónicas.",
+      "connection": "Su cuerpo y sus patas están adaptados a la vida terrestre. Su dieta incluye una gran proporción de materia vegetal.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/5038"
+        }
+      ],
+      "image": "assets/cards/36.webp",
+      "thumbnail": "assets/cards/36-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 1,
+      "photoCredit": {
+        "caption": "Ñandú de Darwin (Rhea pennata pennata). Fotografía de observación en iNaturalist.",
+        "author": "Christoph Moning",
+        "sourcePage": "https://www.inaturalist.org/observations/206434131",
+        "license": "CC-BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/365103209/large.jpeg",
+        "changes": "Redimensionada y convertida a WebP, sin alterar el contenido."
+      },
+      "curiosity": "El macho se encarga de incubar los huevos y criar a los polluelos. Varias hembras pueden aportar huevos al mismo nido.",
+      "curiositySources": [
+        {
+          "label": "Animal Diversity Web · Universidad de Michigan",
+          "url": "https://animaldiversity.org/accounts/Pterocnemia_pennata/"
+        }
+      ],
+      "photo": "assets/organisms/bc-36.webp",
+      "preview": "assets/cards/36-preview.webp",
+      "photoWidth": 667,
+      "photoHeight": 1000
+    },
+    {
+      "id": "BC-37",
+      "number": 37,
+      "title": "El titán de la Patagonia",
+      "species": "Hippocamelus bisulcus",
+      "common": "Huemul",
+      "group": "animal",
+      "subgroup": "Mamífero",
+      "setting": "Bosques y ambientes andinos",
+      "role": "Herbivoría",
+      "description": "El huemul es un ciervo nativo de Chile y Argentina, asociado a bosques y ambientes andinos. Se alimenta de vegetación.",
+      "connection": "Es una especie emblemática de los ecosistemas australes. Los machos desarrollan astas que se renuevan periódicamente.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4607"
+        }
+      ],
+      "image": "assets/cards/37.webp",
+      "thumbnail": "assets/cards/37-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 1,
+      "photoCredit": {
+        "caption": "Huemul (Hippocamelus bisulcus). Fotografía de observación en iNaturalist.",
+        "author": "Philipp Pavelka",
+        "sourcePage": "https://www.inaturalist.org/observations/18047907",
+        "license": "CC-BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/27595081/large.jpeg",
+        "changes": "Redimensionada y convertida a WebP, sin alterar el contenido."
+      },
+      "curiosity": "Las astas del macho suelen tener solo dos puntas. Esa cornamenta sencilla ayuda a distinguirlo de otros ciervos presentes en el sur de Chile.",
+      "curiositySources": [
+        {
+          "label": "SIMBIO · Ministerio del Medio Ambiente",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4607"
+        }
+      ],
+      "photo": "assets/organisms/bc-37.webp",
+      "preview": "assets/cards/37-preview.webp",
+      "photoWidth": 1024,
+      "photoHeight": 768
+    },
+    {
+      "id": "BC-38",
+      "number": 38,
+      "title": "El guardián de los Andes",
+      "species": "Vultur gryphus",
+      "common": "Cóndor andino",
+      "group": "animal",
+      "subgroup": "Ave",
+      "setting": "Montañas y costas",
+      "role": "Carroñero",
+      "description": "El cóndor andino es un ave carroñera de Sudamérica. Utiliza corrientes de aire para planear sobre extensos territorios.",
+      "connection": "Al consumir animales muertos participa en el reciclaje de materia orgánica. Además de la cordillera, ocupa ambientes costeros.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4891"
+        }
+      ],
+      "image": "assets/cards/38.webp",
+      "thumbnail": "assets/cards/38-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 1,
+      "photo": "assets/organisms/bc-38.webp",
+      "photoCredit": {
+        "author": "Charles J. Sharp; recorte por Bloopityboop",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Andean_condor_(Vultur_gryphus)_male_in_flight_Torres_del_Paine_(cropped).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Andean_condor_%28Vultur_gryphus%29_male_in_flight_Torres_del_Paine_%28cropped%29.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+        "caption": "Cóndor andino en vuelo, Torres del Paine. Encuadre adaptado.",
+        "changes": "Redimensionada y convertida a WebP; encuadre ajustado en la página."
+      },
+      "curiosity": "En un estudio con registradores de vuelo, los cóndores aletearon apenas el 1 % del tiempo. Uno recorrió unos 172 km durante más de cinco horas sin batir las alas.",
+      "curiositySources": [
+        {
+          "label": "Williams y colaboradores (2020) · PNAS",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7395523/"
+        }
+      ],
+      "preview": "assets/cards/38-preview.webp",
+      "photoWidth": 1066,
+      "photoHeight": 1600
+    },
+    {
+      "id": "BC-39",
+      "number": 39,
+      "title": "El cazador adaptativo",
+      "species": "Puma concolor",
+      "common": "Puma",
+      "group": "animal",
+      "subgroup": "Mamífero",
+      "setting": "Bosques, matorrales y estepas",
+      "role": "Depredación",
+      "description": "El puma habita una amplia variedad de paisajes americanos. En Chile puede encontrarse en bosques, matorrales, montañas y estepas.",
+      "connection": "Es un felino territorial y generalmente solitario. Su dieta incluye desde pequeños mamíferos hasta grandes herbívoros.",
+      "sources": [
+        {
+          "label": "SIMBIO · Ficha de especie",
+          "url": "https://simbio.mma.gob.cl/Especies/Details/4530"
+        }
+      ],
+      "image": "assets/cards/39.webp",
+      "thumbnail": "assets/cards/39-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 1,
+      "photo": "assets/organisms/bc-39.webp",
+      "photoCredit": {
+        "author": "John and Karen Hollingsworth, U.S. Fish and Wildlife Service",
+        "license": "Dominio público",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Panther_puma_animal_puma_concolor_coryi.jpg#Licensing",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Panther_puma_animal_puma_concolor_coryi.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Panther_puma_animal_puma_concolor_coryi.jpg?utm_campaign=index&utm_content=thumbnail_unscaled&utm_source=commons.wikimedia.org",
+        "caption": "Puma fotografiado en Florida, Estados Unidos. Encuadre adaptado.",
+        "changes": "Redimensionada y convertida a WebP; encuadre ajustado en la página."
+      },
+      "curiosity": "Aunque es un felino de gran tamaño, el puma puede ronronear y no emite el rugido característico de leones y tigres.",
+      "curiositySources": [
+        {
+          "label": "San Diego Zoo Wildlife Alliance",
+          "url": "https://animals.sandiegozoo.org/animals/mountain-lion-puma-cougar"
+        }
+      ],
+      "preview": "assets/cards/39-preview.webp",
+      "photoWidth": 1071,
+      "photoHeight": 1600
+    },
+    {
+      "id": "BC-40",
+      "number": 40,
+      "title": "El coloso del mar",
+      "species": "Balaenoptera musculus",
+      "common": "Ballena azul",
+      "group": "animal",
+      "subgroup": "Mamífero marino",
+      "setting": "Océano",
+      "role": "Filtración de kril",
+      "description": "La ballena azul es un mamífero marino que filtra kril con sus barbas. Aunque vive en el agua, respira aire y necesita salir a la superficie.",
+      "connection": "Su tamaño contrasta con el de sus presas: diminutos crustáceos sostienen al animal más grande del planeta.",
+      "sources": [
+        {
+          "label": "NOAA Fisheries",
+          "url": "https://www.fisheries.noaa.gov/species/blue-whale"
+        }
+      ],
+      "image": "assets/cards/40.webp",
+      "thumbnail": "assets/cards/40-thumb.webp",
+      "sourcePdf": "0_Frontal(2).pdf",
+      "sourcePage": 1,
+      "photo": "assets/organisms/bc-40.webp",
+      "photoCredit": {
+        "author": "NOAA",
+        "license": "Dominio público",
+        "licenseUrl": "https://channelislands.noaa.gov/news/media_resources.html",
+        "sourcePage": "https://channelislands.noaa.gov/news/media_resources.html",
+        "imageUrl": "https://nmschannelislands.blob.core.windows.net/channelislands-prod/media/img/blue-whales-cinms-noaa.jpg",
+        "caption": "Ballenas azules cerca de la superficie. Encuadre adaptado.",
+        "changes": "Redimensionada y convertida a WebP; encuadre ajustado en la página."
+      },
+      "curiosity": "Sus barbas funcionan como un colador: retienen kril mientras dejan salir el agua. Algunos de los individuos más grandes pueden consumir hasta seis toneladas de kril en un día.",
+      "curiositySources": [
+        {
+          "label": "NOAA Fisheries",
+          "url": "https://www.fisheries.noaa.gov/species/blue-whale"
+        }
+      ],
+      "preview": "assets/cards/40-preview.webp",
+      "photoWidth": 1400,
+      "photoHeight": 933
+    }
+  ],
+  "updatedDate": "2026-10-13"
+}
